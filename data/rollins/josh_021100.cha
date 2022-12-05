@@ -1,0 +1,1338 @@
+@UTF8
+@PID:	11312/c-00005936-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , INV Investigator
+@ID:	eng|Rollins|CHI|2;11.|male|||Target_Child|||
+@ID:	eng|Rollins|INV|||||Investigator|||
+@Activities:	walking
+@Types:	long, toyplay, ASD
+*INV:	okay we hafta turn it .
+%mor:	adj|okay pro:sub|we mod|have~inf|to v|turn pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$NIA:SI
+%act:	turns the knob
+%tim:	00:33:10
+*INV:	and pull .
+%mor:	coord|and v|pull .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%spa:	$NIA:SI
+*INV:	help me .
+%mor:	v|help pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*INV:	pull .
+%mor:	v|pull .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	leans closer
+*CHI:	0 .
+%act:	pulls the door open
+*INV:	pull the door open .
+%mor:	v|pull det:art|the n|door adj|open .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|1|PUNCT
+%spa:	$NIA:SI
+*INV:	are we going to go up or down ?
+%mor:	cop|be&PRES pro:sub|we part|go-PRESP inf|to v|go adv|up coord|or
+	adv|down ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|5|INF 5|3|COMP 6|5|JCT 7|6|CONJ 8|7|COORD
+	9|1|PUNCT
+%spa:	$NIA:TQ
+*CHI:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:TA:WD
+*INV:	up ?
+%mor:	adv|up ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:RT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+%tim:	00:33:29
+*INV:	there's Nikki .
+%mor:	pro:exist|there~cop|be&3S n:prop|Nikki .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DHA:ST
+*INV:	he's going down .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$DJF:ST
+*INV:	we're going up .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$NIA:SI
+*INV:	going up .
+%mor:	part|go-PRESP adv|up .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:SI
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:SI
+*INV:	how many more ?
+%mor:	pro:int|how qn|many pro:indef|more ?
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%spa:	$DJF:QN
+*INV:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*INV:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*INV:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*INV:	three steps .
+%mor:	det:num|three n|step-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*INV:	three steps .
+%mor:	det:num|three n|step-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*INV:	ready ?
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:SS
+%tim:	00:34:04
+*INV:	we can sing a song .
+%mor:	pro:sub|we mod|can v|sing det:art|a n|song .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%spa:	$NIA:ST
+*INV:	walking .
+%mor:	part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	walking .
+%mor:	part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	walking .
+%mor:	part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	walking .
+%mor:	part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	hop .
+%mor:	n|hop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+%act:	stops walking and hops
+*INV:	hop .
+%mor:	n|hop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	hop .
+%mor:	n|hop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	hop .
+%mor:	n|hop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+%act:	picks him up under his arms to make him hop
+*INV:	hop .
+%mor:	n|hop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+%act:	makes him hop again
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	what's next ?
+%mor:	pro:int|what~aux|be&3S adv|next ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$PRO:EX
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	running running running .
+%mor:	part|run-PRESP part|run-PRESP part|run-PRESP .
+%gra:	1|0|INCROOT 2|1|XJCT 3|2|COMP 4|1|PUNCT
+%spa:	$PRO:CX
+%tim:	00:34:29
+*INV:	what's next ?
+%mor:	pro:int|what~aux|be&3S adv|next ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$PRO:EX
+%gpx:	taps his shoulder
+*INV:	running running running .
+%mor:	part|run-PRESP part|run-PRESP part|run-PRESP .
+%gra:	1|0|INCROOT 2|1|XJCT 3|2|COMP 4|1|PUNCT
+%spa:	$PRO:CX
+*CHI:	xxx .
+*INV:	now let's +...
+%mor:	adv|now v|let~pro:obj|us +...
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$PRO:EX
+*CHI:	xxx . [+ trn]
+%spa:	$PRO:YY:VO
+*INV:	stop .
+%mor:	n|stop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:CX
+*INV:	now let's +...
+%mor:	adv|now v|let~pro:obj|us +...
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$PRO:PR
+%act:	grabs him
+*INV:	stop .
+%mor:	n|stop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:SI
+*INV:	there's yyy .
+%mor:	pro:exist|there~aux|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$NIA:ST
+%com:	in response to someone else saying there's CHI
+*INV:	what are these Chi ?
+%mor:	pro:int|what aux|be&PRES det:dem|these n:prop|Chi ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|ROOT 5|4|PUNCT
+%spa:	$DHA:QN
+%gpx:	points to the wall
+*INV:	what are these ?
+%mor:	pro:int|what aux|be&PRES pro:dem|these ?
+%gra:	1|0|INCROOT 2|1|COMP 3|2|PRED 4|1|PUNCT
+%spa:	$DHA:QN
+*CHI:	0 .
+%act:	looks at the wall
+*CHI:	dots .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:SA:WCP
+%act:	pokes the wall
+*INV:	dots .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AP
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+*INV:	dots .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+*INV:	more dots .
+%mor:	qn|more n|dot-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+%tim:	00:34:59
+*CHI:	dots .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST:WCP
+*CHI:	dots [>] .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST:WCP
+*INV:	dots [<] .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	dots .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST:WCP
+*INV:	and dots .
+%mor:	coord|and n|dot-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	dots .
+%mor:	n|dot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST:WD
+*INV:	are these dots ?
+%mor:	cop|be&PRES det:dem|these n|dot-PL ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+%spa:	$DHA:YQ
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AN
+*INV:	those aren't dots .
+%mor:	pro:dem|those aux|be&PRES~neg|not n|dot-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	taps the wall as he walks along
+*INV:	more dots .
+%mor:	qn|more n|dot-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*INV:	let's count how many .
+%mor:	v|let~pro:obj|us v|count pro:int|how qn|many .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|JCT 5|3|COBJ 6|1|PUNCT
+%spa:	$DJF:RP
+*INV:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+%gpx:	points to each panel as she counts
+*INV:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*INV:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*INV:	0 . [+ trn]
+%spa:	$DJF:EC
+%gpx:	stops and continues to point at a panel
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	continues walking
+*INV:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*CHI:	0 .
+%act:	continues walking
+*INV:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+%tim:	00:35:32
+*INV:	six .
+%mor:	det:num|six .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+*CHI:	0 .
+%act:	continues touching each panel as he walks
+*INV:	are you counting ?
+%mor:	cop|be&PRES pro:per|you part|count-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|1|PUNCT
+%spa:	$DCA:YQ
+*INV:	six dots .
+%mor:	det:num|six n|dot-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*INV:	hey we needta find the stairs and go down .
+%mor:	co|hey pro:sub|we v|need~inf|to v|find det:art|the n|stair-PL
+	coord|and v|go adv|down .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|CONJ
+	9|8|COORD 10|9|JCT 11|3|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	tries to get into a mailbox
+*INV:	we needta find the stairs .
+%mor:	pro:sub|we v|need~inf|to v|find det:art|the n|stair-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%spa:	$NIA:RP
+%act:	puts her hand on his head to redirect him
+*INV:	where're the dots ?
+%mor:	pro:int|where~aux|be&PRES det:art|the n|dot-PL ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%spa:	$DHA:QN
+%tim:	00:36:00
+*INV:	where's the dots ?
+%mor:	pro:int|where~cop|be&3S det:art|the n|dot-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:QN
+*INV:	here's some dots .
+%mor:	pro:exist|here~cop|be&3S qn|some n|dot-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+%gpx:	touches the wall
+*INV:	0 .
+%act:	runs in front of him
+*INV:	more dots .
+%mor:	qn|more n|dot-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DHA:ST
+%gpx:	points to the wall
+*CHI:	0 .
+%act:	points to the wall as he goes along
+*INV:	more dots .
+%mor:	qn|more n|dot-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to the wall
+*INV:	do we see more dots ?
+%mor:	mod|do pro:sub|we v|see qn|more n|dot-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%spa:	$DJF:YQ
+%gpx:	points to the wall as she walks
+*INV:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AA
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	look Chi .
+%mor:	v|look n:prop|Chi .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DHA:RP
+%gpx:	tries to stop him
+%tim:	00:36:31
+*INV:	here's some kids .
+%mor:	pro:exist|here~cop|be&3S qn|some n|kid-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+*INV:	come here and look at the kids .
+%mor:	v|come adv|here coord|and v|look prep|at det:art|the n|kid-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+%spa:	$DHA:RP
+%act:	picks him up
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	look_it .
+%mor:	co|look_it .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:RP
+%gpx:	points to a picture
+*CHI:	xxx .
+%spa:	$YYY:YY:VO
+*INV:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:QN
+*CHI:	xxx .
+%spa:	$YYY:YY:VO
+*INV:	a +...
+%mor:	det:art|a +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:EC
+*INV:	a boy ?
+%mor:	det:art|a n|boy ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:EQ
+*CHI:	xxx .
+*INV:	where's the girl ?
+%mor:	pro:int|where~cop|be&3S det:art|the n|girl ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:QN
+*CHI:	0 . [+ trn]
+%spa:	$DHA:SA:CP
+%gpx:	points to the same picture
+*INV:	there's the girl .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:CT
+%gpx:	points to a different picture
+*INV:	boys and girls .
+%mor:	n|boy-PL coord|and n|girl-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%spa:	$DHA:ST
+%gpx:	points to each picture respectively
+*CHI:	boys yyy .
+%mor:	n|boy-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:RT:WD
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AC
+*INV:	what are you ?
+%mor:	pro:int|what aux|be&PRES pro:per|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%spa:	$DJF:QN
+*INV:	what're you ?
+%mor:	pro:int|what~aux|be&PRES pro:per|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%spa:	$DJF:QN
+*INV:	are you a boy ?
+%mor:	cop|be&PRES pro:per|you det:art|a n|boy ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|1|PUNCT
+%spa:	$DJF:YQ
+%act:	tries to put him down
+%tim:	00:37:00
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+*INV:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AA
+*INV:	stand up .
+%mor:	v|stand adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	xxx .
+*INV:	stand up .
+%mor:	v|stand adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:RP
+*INV:	let's go find the doors .
+%mor:	v|let~pro:obj|us v|go v|find det:art|the n|door-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|SRL 4|1|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	doors .
+%mor:	n|door-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RT:WD
+*INV:	how do we open these ?
+%mor:	pro:int|how mod|do pro:sub|we v|open pro:dem|these ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx .
+%act:	pushes on the door
+*INV:	how do we open (th)em ?
+%mor:	pro:int|how mod|do pro:sub|we v|open pro:obj|them ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx .
+%act:	looks through the window
+*CHI:	doors .
+%mor:	n|door-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:YY:WD
+*INV:	what do we needta do ?
+%mor:	pro:int|what mod|do pro:sub|we v|need~inf|to v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%spa:	$NIA:QN
+%gpx:	mimics pushing the door open
+*CHI:	push the door .
+%mor:	v|push det:art|the n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:SA:WD
+*INV:	push the door ?
+%mor:	v|push det:art|the n|door ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:AP
+*CHI:	xxx .
+*INV:	down here .
+%mor:	prep|down n|here .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*INV:	down here .
+%mor:	prep|down n|here .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%spa:	$NIA:RP
+%act:	turns down a hall
+%tim:	00:37:35
+@Activities:	lego table/toys
+*CHI:	0 .
+%act:	climbs on the lego table
+%tim:	00:38:00
+*INV:	be careful .
+%mor:	cop|be adj|care&dn-FULL .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%spa:	$NIA:WD
+*INV:	be careful .
+%mor:	cop|be adj|care&dn-FULL .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%spa:	$NIA:WD
+*INV:	it's bumpy .
+%mor:	pro:per|it~cop|be&3S adj|bump&dv-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DHA:ST
+%act:	feels the surface of the table
+*CHI:	yyy bump .
+%mor:	n|bump .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:RT:WD
+*INV:	bumpy .
+%mor:	adj|bump&dv-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:RT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*INV:	should we put (th)em in the basket ?
+%mor:	mod|should pro:sub|we v|put&ZERO pro:obj|them prep|in det:art|the
+	n|basket ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%spa:	$NIA:RQ
+%act:	throws a lego in the hole in the table
+*INV:	put (th)em [>] +...
+%mor:	v|put&ZERO pro:obj|them +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:EC
+*CHI:	xxx [<] .
+*INV:	put (th)em +...
+%mor:	v|put&ZERO pro:obj|them +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:EC
+%gpx:	points in the hole
+*CHI:	xxx .
+*INV:	where should I put it ?
+%mor:	pro:int|where mod|should pro:sub|I v|put&ZERO pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$NIA:QN
+%gpx:	holds up a toy
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	takes the toy
+*INV:	put it +...
+%mor:	v|put&ZERO pro:per|it +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:EC
+*INV:	in the basket ?
+%mor:	prep|in det:art|the n|basket ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:EQ
+%gpx:	points in the hole
+%tim:	00:38:29
+*CHI:	in a [= the] [*] basket .
+%mor:	prep|in det:art|a n|basket .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:RT:WD
+%act:	puts it in the basket
+*INV:	in the basket .
+%mor:	prep|in det:art|the n|basket .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:RT
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	I have another one .
+%mor:	pro:sub|I v|have qn|another pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%spa:	$NIA:ST
+%gpx:	holds up a lego
+*CHI:	0 .
+%act:	tries to take it from her
+*INV:	where you gonna put it ?
+%mor:	pro:int|where pro:per|you part|go-PRESP~inf|to v|put&ZERO
+	pro:per|it ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%spa:	$NIA:QN
+*INV:	where you gonna put it ?
+%mor:	pro:int|where pro:per|you part|go-PRESP~inf|to v|put&ZERO
+	pro:per|it ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%spa:	$NIA:QN
+*INV:	in the basket .
+%mor:	prep|in det:art|the n|basket .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:SA
+%act:	puts it in the hole
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	throws legos in the hole
+*INV:	in the basket .
+%mor:	prep|in det:art|the n|basket .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	puts a lego in
+*CHI:	0 .
+%act:	throws more in
+*INV:	0 .
+%act:	gathers the other legos
+*INV:	I have some more .
+%mor:	pro:sub|I v|have qn|some pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%spa:	$NIA:ST
+%act:	shows him the legos
+*CHI:	0 .
+%gpx:	reaches for a lego
+*INV:	you want (th)em ?
+%mor:	pro:per|you v|want pro:obj|them ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$NIA:YQ
+*CHI:	yyy .
+%spa:	$NIA:YY:VO
+*INV:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:YQ
+*INV:	put it +...
+%mor:	v|put&ZERO pro:per|it +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:EC
+%act:	holds out a lego
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	takes it and throws it in
+%tim:	00:39:00
+*INV:	how many do I have ?
+%mor:	pro:int|how qn|many mod|do pro:sub|I v|have ?
+%gra:	1|5|LINK 2|5|QUANT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%spa:	$DJF:QN
+*INV:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+%gpx:	points to one of the legos
+*CHI:	yyy [= jargon] [>] .
+%spa:	$YYY:YY:VJ
+*INV:	two [<] .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:CN
+%gpx:	points to the other lego
+*INV:	do you want it ?
+%mor:	mod|do pro:per|you v|want pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$DHA:YQ
+%gpx:	holds up a lego
+*CHI:	xxx .
+%spa:	$NIA:YY:VCR
+%gpx:	reaches for it
+*INV:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCA:YQ
+*CHI:	xxx .
+%spa:	$NIA:YY:VO
+*INV:	you want the block ?
+%mor:	pro:per|you v|want det:art|the n|block ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$NIA:YQ
+*CHI:	0 .
+%act:	tries to take it
+*INV:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCA:YQ
+*CHI:	xxx .
+*INV:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AA
+*INV:	put it (.) in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	points in the hole
+*CHI:	0 .
+%act:	throws it in
+*INV:	last one .
+%mor:	adj|last pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:ST
+%act:	shows him the other lego
+*INV:	where should we put it ?
+%mor:	pro:int|where mod|should pro:sub|we v|put&ZERO pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$NIA:QN
+*INV:	0 .
+%gpx:	points into the hole
+*INV:	where should we put it ?
+%mor:	pro:int|where mod|should pro:sub|we v|put&ZERO pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$NIA:QN
+%gpx:	points into the hole
+*CHI:	xxx .
+%gpx:	reaches for it
+*INV:	in the +...
+%mor:	prep|in det:art|the +...
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%spa:	$NIA:EC
+*CHI:	in a [=? the] [*] basket .
+%mor:	prep|in det:art|a n|basket .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:SC:WD
+*INV:	in the basket .
+%mor:	prep|in det:art|the n|basket .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:AP
+%gpx:	nods
+*INV:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:TO
+*INV:	you put it in .
+%mor:	pro:per|you v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%act:	hands it to him
+%tim:	00:39:30
+*CHI:	0 .
+%act:	throws it in
+*INV:	are they in there ?
+%mor:	cop|be&PRES pro:sub|they prep|in n|there ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|3|POBJ 5|1|PUNCT
+%spa:	$NIA:YQ
+%act:	leans over and looks in the hole
+*INV:	0 .
+%act:	rattles the legos
+*CHI:	0 .
+%act:	looks in the hole
+*INV:	shake (th)em up .
+%mor:	v|shake pro:obj|them adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+*INV:	how do we get (th)em out ?
+%mor:	pro:int|how mod|do pro:sub|we v|get pro:obj|them adv|out ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx .
+*INV:	we hafta reach in there .
+%mor:	pro:sub|we mod|have~inf|to v|reach prep|in n|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%spa:	$NIA:SA
+%gpx:	starts to reach in
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	reaches in the hole
+*INV:	reach in .
+%mor:	n|reach adv|in .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:SI
+*INV:	there's +/.
+%mor:	pro:exist|there~aux|be&3S +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$NIA:YY
+*CHI:	yyy [= jargon] .
+%spa:	$YYY:YY:VJ
+%act:	takes the toy
+*INV:	reach in the basket .
+%mor:	n|reach prep|in det:art|the n|basket .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%spa:	$NIA:SI
+%act:	reaches in
+*INV:	pull one out .
+%mor:	v|pull det:num|one adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	takes out a lego
+*CHI:	yyy [= jargon] .
+%spa:	$YYY:YY:VJ
+*INV:	let's put it right here .
+%mor:	v|let~pro:obj|us v|put&ZERO pro:per|it adv|right adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|6|JCT 6|3|JCT 7|1|PUNCT
+%spa:	$NIA:RP
+%act:	tries to get the toy from him
+*INV:	you put it in .
+%mor:	pro:per|you v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points in the hole
+*CHI:	0 .
+%act:	swipes the other toy in the hole
+*INV:	&=gasp you put it in .
+%mor:	pro:per|you v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	drops the other toy in
+*INV:	you put it in .
+%mor:	pro:per|you v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+%act:	rattles the toys
+%tim:	00:40:00
+*CHI:	xxx .
+%act:	backs off and spins in the walkway
+*CHI:	0 .
+%act:	goes over to the next table
+*INV:	there's some more blocks .
+%mor:	pro:exist|there~cop|be&3S qn|some qn|more n|block-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|PRED 6|2|PUNCT
+%spa:	$DHA:ST
+%gpx:	points to the next table
+*INV:	there's some more .
+%mor:	pro:exist|there~cop|be&3S qn|some pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+*INV:	should we put (th)em in ?
+%mor:	mod|should pro:sub|we v|put&ZERO pro:obj|them adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RQ
+%gpx:	points from the blocks to the lego table
+*INV:	should we put (th)em in ?
+%mor:	mod|should pro:sub|we v|put&ZERO pro:obj|them adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RQ
+%gpx:	taps his arm with the toy
+*CHI:	xxx .
+*INV:	put it in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	taps his arm with a toy
+*INV:	put it in the basket .
+%mor:	v|put&ZERO pro:per|it prep|in det:art|the n|basket .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%spa:	$NIA:RP
+%act:	hands him the toy
+%tim:	00:40:31
+*INV:	put it [>] in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+*CHI:	yyy [<] .
+%spa:	$YYY:YY:VO
+%act:	drops it in the hole
+*INV:	do you wanna do it again ?
+%mor:	mod|do pro:per|you v|want~inf|to v|do pro:per|it adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+%spa:	$NIA:RQ
+*CHI:	yyy [= jargon] .
+%spa:	$YYY:YY:VJ
+*INV:	do you wanna do it again ?
+%mor:	mod|do pro:per|you v|want~inf|to v|do pro:per|it adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+%spa:	$NIA:RQ
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	do it again ?
+%mor:	mod|do pro:per|it adv|again ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+%spa:	$DCC:YQ
+*INV:	here's another one .
+%mor:	pro:exist|here~cop|be&3S qn|another pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	breaks a block off the toy
+*INV:	put it [>] in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+*CHI:	0 [<] .
+%act:	drops it in
+*CHI:	0 .
+%gpx:	reaches for another
+*INV:	more ?
+%mor:	pro:indef|more ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RQ
+*CHI:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD:WDE
+*INV:	more blocks ?
+%mor:	qn|more n|block-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$DCC:YQ
+*INV:	here's more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$NIA:TO
+%act:	hands him a block
+*CHI:	0 .
+%act:	throws it in
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+*INV:	more ?
+%mor:	pro:indef|more ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:YQ
+*INV:	here's more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$PRO:TO
+%act:	hands him a block
+*CHI:	0 .
+%act:	throws it in
+*CHI:	xxx .
+%tim:	00:41:00
+*CHI:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RP:WD
+*INV:	more ?
+%mor:	pro:indef|more ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:YQ
+*CHI:	0 .
+%act:	leans over and looks in the hole
+*INV:	here's one more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	tries to hand him a block
+*INV:	0 .
+%act:	rubs his hair with it
+*CHI:	0 .
+%act:	stands
+*INV:	here's one more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	hands him the block
+*CHI:	block .
+%mor:	n|block .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:ST:WD
+%act:	puts it in the hole
+*INV:	put it in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+*CHI:	0 .
+%act:	plays with the table
+*INV:	0 .
+%act:	shows him a block
+*CHI:	0 .
+%act:	tries to get it from her
+*CHI:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RP:WD
+*INV:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+*INV:	one more .
+%mor:	det:num|one pro:indef|more .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	puts it in
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VO
+%act:	takes a block from her and throws it in
+*INV:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:CT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%tim:	00:41:31
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	walks off into the walkway
+*INV:	I have more blocks to put in the basket .
+%mor:	pro:sub|I v|have qn|more n|block-PL inf|to v|put&ZERO prep|in
+	det:art|the n|basket .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|6|INF 6|4|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%spa:	$DHA:ST
+*CHI:	yyy [= jargon] .
+%spa:	$YYY:YY:VJ
+*INV:	0 .
+%act:	holds up a block
+*INV:	I have a blue block .
+%mor:	pro:sub|I v|have det:art|a n|blue n|block .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	reaches for the block
+*INV:	wanna do it again ?
+%mor:	v|want~inf|to v|do pro:per|it adv|again ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%spa:	$NIA:RQ
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:AD:VOE
+%act:	takes the block
+*INV:	do it again .
+%mor:	mod|do pro:per|it adv|again .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+%spa:	$NIA:CT
+*CHI:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:RP:WD
+%tim:	00:41:52
+*INV:	more ?
+%mor:	pro:indef|more ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:RT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:AD
+%act:	hands him a block
+*INV:	here's one more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$PRO:TO
+*CHI:	0 .
+%act:	throws it in
+*CHI:	I yyy more .
+%mor:	pro:sub|I pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$PRO:RP:WD
+*INV:	you want more ?
+%mor:	pro:per|you v|want adv|more ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$PRO:RT
+*INV:	here's more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$PRO:TO
+%act:	hands him a block
+*CHI:	0 .
+%act:	plays with it before putting it in
+*INV:	big one .
+%mor:	adj|big pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+%tim:	00:42:02
+*INV:	I have a green one .
+%mor:	pro:sub|I v|have det:art|a n|green pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$DHA:ST
+*INV:	green block .
+%mor:	adj|green n|block .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	I want more .
+%mor:	pro:sub|I v|want adv|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$PRO:RP:WD
+*INV:	you want more ?
+%mor:	pro:per|you v|want adv|more ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$PRO:RT
+*INV:	yes you can have more .
+%mor:	co|yes pro:per|you mod|can v|have adv|more .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%spa:	$PRO:AD
+%act:	hands him a block
+*INV:	two more .
+%mor:	det:num|two adv|more .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:ST
+*CHI:	more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:RP:WDE
+*INV:	more ?
+%mor:	pro:indef|more ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PRO:RT
+*INV:	here's one more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$PRO:TO
+%act:	hands him a block
+*CHI:	is there more ?
+%mor:	cop|be&3S adv|there pro:indef|more ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%spa:	$NIA:YQ:WD
+*INV:	there's more .
+%mor:	pro:exist|there~cop|be&3S pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$NIA:AA
+*INV:	here's one more .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	hands him a block
+*CHI:	0 .
+%act:	puts it in the hole
+*INV:	I don't have any more .
+%mor:	pro:sub|I mod|do~neg|not v|have qn|any pro:indef|more .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	looks in the hole
+*INV:	are they all in there ?
+%mor:	cop|be&PRES pro:sub|they post|all prep|in n|there ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|PQ 4|2|JCT 5|4|POBJ 6|1|PUNCT
+%spa:	$NIA:YQ
+%act:	rattles the blocks
+*INV:	shake (th)em up .
+%mor:	v|shake pro:obj|them adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+*INV:	shake (th)em up .
+%mor:	v|shake pro:obj|them adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	raises the bag
+*INV:	I put (th)em up .
+%mor:	pro:sub|I v|put&ZERO pro:obj|them adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:SI
+%act:	raises the bag
+*INV:	and down .
+%mor:	coord|and adv|down .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:SI
+%act:	lowers the bag
+%tim:	00:42:31
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:SI
+%act:	raises it
+*INV:	0 .
+%act:	lowers it
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:ST
+*CHI:	xxx .
+%act:	gets another block off the other table
+*INV:	did you find more blocks ?
+%mor:	mod|do&PAST pro:per|you v|find adv|more n|block-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:YQ
+%gpx:	points to the other table
+*CHI:	xxx .
+%spa:	$YYY:YY:VO
+%act:	throws one in the hole
+*INV:	did you find more ?
+%mor:	mod|do&PAST pro:per|you v|find adv|more ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$NIA:YQ
+%gpx:	points to the blocks
+*CHI:	xxx .
+%spa:	$YYY:YY:VO
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	covers the hole
+*CHI:	yyy [= jargon] .
+%spa:	$YYY:YY:VJ
+%act:	tries to put a block in the hole
+*INV:	&=gasp what do I needta do ?
+%mor:	pro:int|what mod|do pro:sub|I v|need~inf|to v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx [>] . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	<say move> [<] please .
+%mor:	v|say n|move co|please .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COM 4|1|PUNCT
+%spa:	$NIA:EI
+*CHI:	move .
+%mor:	v|move .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$NIA:RT:WD
+*INV:	0 .
+%act:	moves her hands
+*INV:	they moved .
+%mor:	pro:sub|they v|move-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$DRE:ST
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	puts her hands back
+*CHI:	yyy [= jargon] .
+%spa:	$YYY:YY:VJ
+*INV:	I've got it covered .
+%mor:	pro:sub|I~aux|have part|get&PASTP pro:per|it v|cover-PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+%spa:	$DHA:ST
+%tim:	00:43:01
+*CHI:	0 .
+%act:	tries to put a block in
+*INV:	should I (.) move my hands ?
+%mor:	mod|should pro:sub|I v|move det:poss|my n|hand-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%spa:	$NIA:YQ
+*CHI:	move my hands .
+%mor:	v|move det:poss|my n|hand-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:RP:WDE
+*INV:	0 .
+%act:	moves her hands
+*INV:	I moved my hands .
+%mor:	pro:sub|I v|move-PAST det:poss|my n|hand-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	puts a block in
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	moves her hands back before he can put another in
+*CHI:	move .
+%mor:	v|move .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$NIA:RP:WD
+*INV:	move my hands .
+%mor:	v|move det:poss|my n|hand-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:AD
+%act:	moves her hands
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	covers it again
+*CHI:	0 .
+%act:	goes to the slide
+*INV:	move my hands .
+%mor:	v|move det:poss|my n|hand-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:ST
+*INV:	are we finished with the blocks ?
+%mor:	cop|be&PRES pro:sub|we v|finish-PAST prep|with det:art|the
+	n|block-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%spa:	$NIA:YQ
+*INV:	yes or no ?
+%mor:	co|yes coord|or co|no ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%spa:	$NIA:TQ
+*CHI:	no [>] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RT:WDE
+*INV:	are [<] we finished ?
+%mor:	cop|be&PRES pro:sub|we v|finish-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:YQ
+%tim:	00:43:30
+*INV:	all done with the blocks ?
+%mor:	qn|all part|do&PASTP prep|with det:art|the n|block-PL ?
+%gra:	1|2|QUANT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%spa:	$NIA:YQ
+*INV:	are we finished ?
+%mor:	cop|be&PRES pro:sub|we v|finish-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:YQ
+*INV:	should we do the slide now ?
+%mor:	mod|should pro:sub|we v|do det:art|the n|slide adv|now ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:YQ
+*CHI:	xxx .
+*INV:	you wanna do the slide or the blocks ?
+%mor:	pro:per|you v|want~inf|to v|do det:art|the n|slide coord|or
+	det:art|the n|block-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|2|PUNCT
+%spa:	$NIA:TQ
+*CHI:	0 .
+%act:	climbs up the slide
+*INV:	you wanna do the slide or the blocks ?
+%mor:	pro:per|you v|want~inf|to v|do det:art|the n|slide coord|or
+	det:art|the n|block-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|2|PUNCT
+%spa:	$NIA:YQ
+%gpx:	taps the slide then points to the blocks
+*INV:	the slide ?
+%mor:	det:art|the n|slide ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:YQ
+%gpx:	points to the slide
+*CHI:	0 .
+%act:	lays down on the slide
+*INV:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCA:YQ
+*INV:	okay we'll do the slide .
+%mor:	co|okay pro:sub|we~mod|will v|do det:art|the n|slide .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%spa:	$NIA:AD
+*CHI:	0 .
+%act:	slides down
+*CHI:	0 .
+%act:	runs around the slide
+*INV:	you wanna do it again ?
+%mor:	pro:per|you v|want~inf|to v|do pro:per|it adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RQ
+*INV:	0 .
+%act:	blocks the way
+*INV:	you wanna do it again ?
+%mor:	pro:per|you v|want~inf|to v|do pro:per|it adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RQ
+*INV:	you wanna do it again ?
+%mor:	pro:per|you v|want~inf|to v|do pro:per|it adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RQ
+*INV:	you wanna slide again ?
+%mor:	pro:per|you v|want~inf|to v|slide adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+%spa:	$NIA:RQ
+*CHI:	xxx .
+%act:	looks out the window
+*INV:	climb up .
+%mor:	v|climb adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:RP
+%act:	taps the slide
+*CHI:	0 .
+%act:	takes her hand and walks away
+%tim:	00:44:30
+@End

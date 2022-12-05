@@ -1,0 +1,1875 @@
+@UTF8
+@PID:	11312/c-00005939-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , INV Investigator , INV2 Camera_Operator Investigator
+@ID:	eng|Rollins|CHI|3;02.|male|||Target_Child|||
+@ID:	eng|Rollins|INV|||||Investigator|||
+@ID:	eng|Rollins|INV2|||||Investigator|||
+@Activities:	Closet
+@Types:	long, toyplay, ASD
+*INV:	should we go outside [>] ?
+%mor:	mod|should pro:sub|we v|go adv|outside ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$NIA:RQ
+%tim:	00:36:51
+*CHI:	0 [<] . [+ trn]
+%spa:	$DHA:YY:CA
+%gpx:	points across the room
+%tim:	00:36:54
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RD:VCO
+%gpx:	points again and shakes head
+*INV:	to the closet ?
+%mor:	prep|to det:art|the n|closet ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$DCC:YQ
+%gpx:	points in the same direction
+*CHI:	0 .
+%act:	runs across the room to the closet
+*CHI:	0 .
+%act:	reaches for the closet doorknob
+*INV:	excuse me Teresa .
+%mor:	v|excuse pro:obj|me n:prop|Teresa .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+%spa:	$MRK:MK
+%act:	holds Sam around the waist
+%com:	someone is sitting in front of the closet door
+*INV:	wait a minute .
+%mor:	v|wait det:art|a n|minute .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:PF
+*INV:	let her move .
+%mor:	v|let&ZERO det:poss|her n|move .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:RP
+*INV:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	tries to open the door
+*INV:	what do we needta do ?
+%mor:	pro:int|what mod|do pro:sub|we v|need~inf|to v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VNT
+%gpx:	grabs examiner's hand
+*INV:	look up .
+%mor:	v|look adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$DHA:RP
+%gpx:	points up
+*CHI:	0 .
+%act:	looks up
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCA
+%gpx:	points up
+*INV:	unhook it .
+%mor:	un#v|hook pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:EI
+%act:	reaches up
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VO
+*INV:	unhook it .
+%mor:	un#v|hook pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:SI
+%act:	unhooks the door
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VC
+%act:	tries to open the door
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:EM:VNT
+%act:	pushes the examiner
+*INV:	open .
+%mor:	adj|open .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:SI
+%act:	pushes the door for him
+*CHI:	0 .
+%act:	looks in the closet
+*INV:	push it back .
+%mor:	v|push pro:per|it adv|back .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%tim:	00:37:30
+*CHI:	0 .
+%act:	pushes the other door open
+*CHI:	blocks .
+%mor:	n|block-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$YYY:YY:WD
+%act:	tries to get the blocks out of the closet
+*INV:	you want the blocks ?
+%mor:	pro:per|you v|want det:art|the n|block-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DCC:YQ
+%act:	helps him get the blocks out
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*INV:	let's bring them over this way .
+%mor:	v|let~pro:obj|us v|bring pro:obj|them adv|over pro:dem|this adv|way
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|6|JCT 6|3|OBJ 7|6|JCT 8|1|PUNCT
+%spa:	$NIA:RP
+%act:	puts the bucket of blocks in the floor
+*INV:	let's get out_of the way .
+%mor:	v|let~pro:obj|us v|get prep|out_of det:art|the n|way .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%spa:	$NIA:GR
+*INV:	let's go shut the doors first .
+%mor:	v|let~pro:obj|us v|go v|shut&ZERO det:art|the n|door-PL adj|first .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|SRL 4|1|COMP 5|6|DET 6|4|OBJ 7|6|POSTMOD 8|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	points back to the closet
+*CHI:	0 .
+%act:	holds the doorknob
+*INV:	shut the door .
+%mor:	v|shut&ZERO det:art|the n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	starts to shut the door
+%com:	they have to wait for someone else to get out of the closet
+%tim:	00:37:58
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:MK
+*INV:	let's shut the doors .
+%mor:	v|let~pro:obj|us v|shut&ZERO det:art|the n|door-PL .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	pushes the door
+*INV:	push it Chi .
+%mor:	v|push pro:per|it n:prop|Chi .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	pushes the door shut
+*INV:	push it .
+%mor:	v|push pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	closes the other door
+*INV:	0 .
+%act:	locks the doors
+*CHI:	0 .
+%act:	goes back to the blocks
+@Activities:	legos
+*INV:	what are you going to build ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP inf|to v|build ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%spa:	$NIA:QN
+%tim:	00:38:31
+*CHI:	0 .
+%act:	takes a truck out of the bucket
+*CHI:	0 .
+%act:	dumps all the legos out of the bucket
+*CHI:	0 .
+%act:	throws the bucket
+*INV:	0 .
+%act:	catches the bucket before it hits the floor
+*INV:	look at all those blocks .
+%mor:	v|look prep|at qn|all det:dem|those n|block-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|1|PUNCT
+%spa:	$DHA:ST
+%gpx:	pinches his belly
+*INV:	don't throw the bucket .
+%mor:	mod|do~neg|not v|throw det:art|the n|bucket .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%spa:	$NIA:DS
+*INV:	there's your gas station .
+%mor:	pro:exist|there~cop|be&3S det:poss|your n|gas n|station .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$DHA:ST
+%act:	puts a lego structure in front of CHI
+*CHI:	0 .
+%act:	tries to add a lego to the structure
+%tim:	00:38:55
+*INV:	0 .
+%act:	starts to help him
+*CHI:	0 .
+%act:	gets the lego added
+*INV:	there you go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:AB
+*INV:	what are you going to build ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP inf|to v|build ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx .
+%act:	gets another lego structure and puts it on top of the other
+*INV:	what does that say ?
+%mor:	pro:int|what mod|do&3S pro:dem|that v|say ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+%act:	leans over the legos to see
+*INV:	gas pump .
+%mor:	n|gas n|pump .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$TXT:TX
+%gpx:	points to the front of the lego
+*CHI:	0 .
+%act:	rolls a car to the gas pump
+*CHI:	0 .
+%act:	sneezes
+*INV:	bless you .
+%mor:	v|bless pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$MRK:MK
+%tim:	00:39:31
+*INV:	0 . [+ trn]
+%spa:	$NIA:TO:CO
+%act:	hands him a lego
+*CHI:	0 .
+%act:	starts to put it on top of the gas pump
+*CHI:	0 .
+%act:	starts to put it on top of a car then just puts it down
+*CHI:	xxx .
+%act:	puts other legos together
+*INV:	use this yellow one .
+%mor:	v|use det:dem|this n|yellow pro:indef|one .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$NIA:RP
+%act:	hands him a yellow lego
+%tim:	00:40:03
+*CHI:	0 .
+%act:	takes the yellow lego and puts it on whatever he was building
+*INV:	0 .
+%act:	connects two cars
+*INV:	you need a kleenex ?
+%mor:	pro:per|you v|need det:art|a n|kleenex ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DHS:YQ
+%act:	tousels his hair
+*INV:	0 .
+%act:	gets a kleenex
+*CHI:	0 .
+%act:	rolls the connected cars around and knocks over the gas pumps
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*INV:	you knocked it down .
+%mor:	pro:per|you v|knock-PAST pro:per|it adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+%act:	wipes his nose for him
+%tim:	00:40:30
+*INV:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DHA:QN
+%act:	holds up a lego
+*INV:	use this green block .
+%mor:	v|use det:dem|this adj|green n|block .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$NIA:RP
+%act:	holds it out to him
+*CHI:	0 .
+%act:	takes the green lego
+*INV:	www .
+%com:	talks with another boy who is giving his examiner a hard time
+*CHI:	0 .
+%act:	takes apart some legos and puts them back together
+%tim:	00:41:00
+*CHI:	0 .
+%act:	tries to attach a lego to the car
+*INV:	0 .
+%act:	wipes CHI's nose again
+%tim:	00:41:30
+*CHI:	0 .
+%act:	gets the lego on the car
+*INV:	let's hook this .
+%mor:	v|let~pro:obj|us v|hook pro:dem|this .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%spa:	$NIA:RP
+%act:	picks out two cars
+*INV:	hook that up Chi .
+%mor:	n|hook pro:rel|that adv|up n:prop|Chi .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+%spa:	$NIA:RP
+%act:	holds out the cars to CHI
+*INV:	can you hook it ?
+%mor:	mod|can pro:per|you v|hook pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	hooks the cars together
+*INV:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	puts down the cars and goes back to building
+*INV:	0 .
+%act:	puts a person in the truck
+%tim:	00:42:02
+*INV:	0 .
+%act:	gets a small car to hook on the tow truck
+*INV:	we have another one to hook .
+%mor:	pro:sub|we v|have qn|another det:num|one inf|to v|hook .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|6|INF 6|4|COMP 7|2|PUNCT
+%spa:	$NIA:ST
+*INV:	can you hook that ?
+%mor:	mod|can pro:per|you v|hook pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:RP
+%com:	cannot hear her over another
+*CHI:	0 .
+%act:	hooks the car to the truck
+*INV:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$MRK:MK
+*INV:	0 .
+%act:	moves legos around to make a path for the truck
+*CHI:	0 .
+%act:	rolls the truck through the path
+*INV:	where's he going ?
+%mor:	pro:int|where~cop|be&3S pro:sub|he part|go-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+%tim:	00:42:29
+*INV:	going to the gas station ?
+%mor:	part|go-PRESP prep|to det:art|the n|gas n|station ?
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+%spa:	$NIA:RQ
+%gpx:	taps the top of a lego structure
+*CHI:	0 .
+%act:	starts to put a ladder on the truck
+*INV:	0 .
+%act:	plays with other legos
+*CHI:	0 .
+%act:	starts to put the ladder on something else
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VCO
+%gpx:	holds the ladder out to the examiner
+*INV:	that's the ladder .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|ladder .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:ST
+%act:	takes the ladder from him
+*INV:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCA:RR
+%tim:	00:43:00
+*INV:	hook it up ?
+%mor:	v|hook pro:per|it adv|up ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$DCA:YQ
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+*INV:	I'll hook it up for you .
+%mor:	pro:sub|I~mod|will v|hook pro:per|it adv|up prep|for pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|3|PUNCT
+%spa:	$NIA:SI
+%act:	takes the truck
+*INV:	how do we do this Chi ?
+%mor:	pro:int|how mod|do pro:sub|we v|do det:dem|this n:prop|Chi ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|JCT 7|4|PUNCT
+%spa:	$NIA:QN
+%act:	looks over the truck and the ladder
+*INV:	there you go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:MK
+%act:	hooks up the ladder and gives it back
+*INV:	there's the ladder .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|ladder .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	tries to hook something on back of the truck with the ladder
+*INV:	I don't think it will fit .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:per|it mod|will v|fit&ZERO .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|AUX 7|4|COMP 8|4|PUNCT
+%spa:	$DSS:ST
+%act:	looks over the truck with the ladder
+*INV:	hook it there .
+%mor:	v|hook pro:per|it adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$DHA:RP
+%gpx:	points to the back of the car
+*INV:	hook it on that one .
+%mor:	v|hook pro:per|it prep|on det:dem|that pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	hooks it behind the car
+%tim:	00:43:31
+*INV:	there you go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:AB
+*CHI:	0 .
+%act:	picks up the gas station and sets it on something else
+*INV:	gas .
+%mor:	n|gas .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:ST
+*INV:	the gas station .
+%mor:	det:art|the n|gas n|station .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	rolls the train of cars up to the gas station
+*INV:	0 .
+%act:	gets a blue car and some people from behind him
+%tim:	00:44:02
+*INV:	you know what ?
+%mor:	pro:per|you v|know pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DHA:QN
+*INV:	you need a driver .
+%mor:	pro:per|you v|need det:art|a n|drive&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$NIA:ST
+*INV:	do you want the blue driver or the red driver ?
+%mor:	mod|do pro:per|you v|want det:art|the n|blue n|drive&dv-AGT
+	coord|or det:art|the n|red n|drive&dv-AGT ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|3|PUNCT
+%spa:	$NIA:TQ
+%act:	holds up a person
+*CHI:	0 .
+%act:	starts to take a person then looks at the train
+*CHI:	0 .
+%act:	takes a person
+*INV:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	puts the person in the first truck
+*INV:	can you put him in the fire truck ?
+%mor:	mod|can pro:per|you v|put&ZERO pro:obj|him prep|in det:art|the
+	n|fire n|truck ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to the truck with the ladder
+*INV:	you have a driver here .
+%mor:	pro:per|you v|have det:art|a n|drive&dv-AGT adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%spa:	$NIA:CR
+%gpx:	points in the first truck
+*INV:	put him in the fire truck .
+%mor:	v|put&ZERO pro:obj|him prep|in det:art|the n|fire n|truck .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	points in the truck with the ladder
+*INV:	0 . [+ trn]
+%spa:	$DHA:YY:CO
+%act:	holds up the other person
+*CHI:	0 .
+%act:	takes the other person
+*INV:	blue .
+%mor:	adj|blue .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:ST
+*INV:	0 . [+ trn]
+%spa:	$DHA:RP:CP
+%gpx:	points
+*CHI:	0 .
+%act:	starts to put him in the fire truck
+*INV:	put him in the fire truck .
+%mor:	v|put&ZERO pro:obj|him prep|in det:art|the n|fire n|truck .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	puts the person in the fire truck
+%tim:	00:44:35
+*INV:	there you go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:AB
+*INV:	drive .
+%mor:	n|drive .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:SI
+*CHI:	0 .
+%act:	rolls the truck around
+*CHI:	0 .
+%act:	moves the train of cars
+*CHI:	0 .
+%act:	rolls the fire truck up to the gas station
+*INV:	what's he doing ?
+%mor:	pro:int|what~aux|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$DJF:QN
+*INV:	is he getting gas ?
+%mor:	cop|be&3S pro:sub|he part|get-PRESP n|gas ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|1|PUNCT
+%spa:	$DJF:YQ
+%gpx:	points to the top of the gas station
+*CHI:	0 .
+%act:	tries to set something on top of the gas station and it falls over
+%tim:	00:45:01
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	picks up the gas station
+*CHI:	0 .
+%gpx:	throws down the legos he tried setting on the gas station
+*INV:	let's put it this way Chi .
+%mor:	v|let~pro:obj|us v|put&ZERO pro:per|it pro:dem|this adv|way
+	n:prop|Chi .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|7|SUBJ 6|7|JCT 7|3|COMP 8|1|PUNCT
+%spa:	$NIA:SI
+%act:	puts the legos on top of the gas station
+*CHI:	0 .
+%act:	connects other legos
+*CHI:	0 .
+%act:	picks up the truck and hits it on the floor
+*INV:	xxx . [+ trn]
+%spa:	$MRK:MK
+%act:	grabs his hand
+*INV:	don't crash them .
+%mor:	mod|do~neg|not v|crash pro:obj|them .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:PF
+%act:	tickles his belly
+*INV:	we'll hafta put them away .
+%mor:	pro:sub|we~mod|will mod|have~inf|to v|put&ZERO pro:obj|them
+	adv|away .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+%spa:	$NIA:GR
+*CHI:	0 .
+%act:	hits the truck against the legos he put together
+*INV:	no no no no no .
+%mor:	co|no co|no co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|5|COM 4|5|COM 5|0|INCROOT 6|5|PUNCT
+%spa:	$NIA:PF
+%act:	takes the legos he hit the truck against
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:PF
+%gpx:	shakes her head
+*CHI:	0 .
+%act:	reaches for some legos
+*INV:	can you stack them ?
+%mor:	mod|can pro:per|you v|stack pro:obj|them ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	tries to put the legos on the gas station but it falls over
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	rights the gas station
+%tim:	00:45:32
+*INV:	it fell again .
+%mor:	pro:per|it v|fall&PAST adv|again .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	puts another lego on top
+*CHI:	0 .
+%act:	pulls apart two legos and puts one on top of the gas station
+*INV:	0 .
+%act:	catches the gas station before it falls again
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	puts the other lego on top
+*CHI:	0 .
+%act:	tries to put the ladder back on the truck
+%tim:	00:45:58
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RPVNO
+%gpx:	holds the ladder out to the examiner
+*INV:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCA:RR
+%act:	takes the ladder
+*INV:	there's the ladder .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|ladder .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:ST
+%gpx:	shakes the ladder
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCT
+*INV:	here's the ladder .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|ladder .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:ST
+%gpx:	shakes the ladder
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCT
+%gpx:	touches the truck
+*INV:	put it on ?
+%mor:	v|put&ZERO pro:per|it adv|on ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$DCC:YQ
+%gpx:	points to the truck
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+%act:	takes the truck
+*INV:	0 .
+%act:	puts the ladder on the truck
+*INV:	here you go .
+%mor:	adv|here pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:MK
+*CHI:	0 .
+%gpx:	smiles
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	you're welcome .
+%mor:	pro:per|you~cop|be&PRES adj|welcome .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$MRK:MK
+%tim:	00:46:29
+*INV:	0 .
+%act:	gets kleenex out of her pocket
+*CHI:	0 .
+%act:	leans over the gas station to attach a lego
+*INV:	let me see your nose .
+%mor:	v|let&ZERO pro:obj|me v|see det:poss|your n|nose .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%spa:	$NIA:RP
+%act:	tries to wipe his nose
+*CHI:	0 .
+%act:	knocks over the gas station
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	wipes his nose
+*CHI:	xxx .
+%act:	begins rebuilding the gas station
+*INV:	0 .
+%act:	holds part of the structure down so he can take it apart
+*CHI:	xxx .
+%act:	still building
+*INV:	0 .
+%act:	holds the gas station so it won't fall while he builds
+*CHI:	0 .
+%act:	rolls the fire truck around the gas station
+%tim:	00:47:02
+*INV:	you need a driver Chi .
+%mor:	pro:per|you v|need det:art|a n|drive&dv-AGT n:prop|Chi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|APP 6|2|PUNCT
+%spa:	$NIA:ST
+%gpx:	points in the truck
+*CHI:	0 .
+%act:	puts a person in the truck
+%com:	this is an assumption as the camera is moving and visibility is poor
+*INV:	there you go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:MK
+*INV:	the blue driver .
+%mor:	det:art|the n|blue n|drive&dv-AGT .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$NIA:ST
+%act:	rolls another truck around
+*INV:	there's a yellow driver .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|yellow n|drive&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	takes the other truck from her and rolls it to the other side of the station
+*INV:	they're at the gas station .
+%mor:	pro:sub|they~cop|be&PRES prep|at det:art|the n|gas n|station .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%spa:	$DJF:ST
+*INV:	they're getting gas .
+%mor:	pro:sub|they~aux|be&PRES part|get-PRESP n|gas .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$DJF:ST
+*INV:	0 .
+%act:	picks up some legos and hands them to CHI
+*INV:	put those on somewhere .
+%mor:	v|put&ZERO det:dem|those adv|on adv|somewhere .
+%gra:	1|0|ROOT 2|4|DET 3|4|JCT 4|1|JCT 5|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	takes the legos
+%tim:	00:47:32
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	scratches his head
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	removes a lego from the top
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	puts the legos on top of the gas station
+*INV:	up on top .
+%mor:	adv|up prep|on n|top .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%spa:	$NIA:ST
+*INV:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$NIA:AB
+*CHI:	0 .
+%act:	reaches for some legos
+*INV:	here's some more .
+%mor:	pro:exist|here~cop|be&3S qn|some pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	hands him more legos
+*CHI:	0 .
+%act:	gets the legos he was reaching for
+*INV:	blue and green ones .
+%mor:	adj|blue coord|and v|green pro:indef|one-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+%spa:	$DHA:ST
+*CHI:	0 .
+%act:	puts those on top
+*CHI:	xxx .
+*INV:	put those somewhere .
+%mor:	v|put&ZERO pro:dem|those adv|somewhere .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+%act:	hands him the legos
+*CHI:	0 .
+%act:	puts those on top of the last ones
+*CHI:	0 .
+%act:	sits back and scratches his head
+%tim:	00:47:58
+*CHI:	0 .
+%act:	reaches for more legos
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VO
+%act:	grabs a lego
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AC
+*INV:	put those on .
+%mor:	v|put&ZERO pro:dem|those prep|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	puts them on top
+*INV:	smash it .
+%mor:	v|smash pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*INV:	now what ?
+%mor:	adv|now pro:int|what ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:QN
+*INV:	here's a tall one .
+%mor:	pro:exist|here~cop|be&3S det:art|a adj|tall pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$NIA:TO
+%act:	holds up more legos
+*CHI:	0 .
+%act:	tries to put it on top of the last ones and it falls
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	picks it up
+*INV:	yyy .
+%spa:	$DHA:YY
+%com:	whispers
+%act:	points to a place on the structure
+%tim:	00:48:30
+*INV:	how about down here .
+%mor:	pro:int|how adv|about prep|down adv|here .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|POBJ 5|3|PUNCT
+%spa:	$DHA:RP
+%gpx:	points again
+*CHI:	0 .
+%act:	stacks the big piece back on
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCA:YQ
+*CHI:	0 .
+%act:	finds a new place to attach the tall legos
+*INV:	here's some more .
+%mor:	pro:exist|here~cop|be&3S qn|some pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	holds out more legos
+*CHI:	0 .
+%act:	takes the legos
+*INV:	where do those go ?
+%mor:	pro:rel|where v|do det:dem|those v|go ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|COMP 5|2|PUNCT
+%spa:	$NIA:QN
+*CHI:	0 .
+%act:	puts them in the fire truck
+*CHI:	0 .
+%act:	looks up at the examiner
+*INV:	in the truck .
+%mor:	prep|in det:art|the n|truck .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%spa:	$NIA:SA
+*INV:	good idea .
+%mor:	adj|good n|idea .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:AP
+*CHI:	0 .
+%act:	rolls the truck around on the floor
+*INV:	0 .
+%act:	moves the bucket closer
+%tim:	00:49:03
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	still rolling the truck
+*INV:	bye bye .
+%mor:	co|bye co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$MRK:MK
+%act:	waves
+*INV:	where are you going ?
+%mor:	pro:int|where aux|be&PRES pro:per|you part|go-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+*INV:	0 .
+%act:	rolls a car around to where his truck is
+*INV:	crash .
+%mor:	n|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:PR
+%act:	hits his truck with her car
+*INV:	0 .
+%act:	rolls her car back behind her
+*CHI:	0 .
+%act:	follows with his truck
+*INV:	xxx . [+ trn]
+%spa:	$NIA:PR
+%com:	making car sounds
+%tim:	00:49:29
+*INV:	crash .
+%mor:	n|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:PR
+%com:	can't see what they are doing bacause the camera is moving again
+*INV:	0 .
+%act:	turns the bucket on its side
+*INV:	put them in the bucket .
+%mor:	v|put&ZERO pro:obj|them prep|in det:art|the n|bucket .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%spa:	$NIA:RP
+%act:	rolls her car in the bucket
+*CHI:	0 .
+%act:	starts to put the truck in the bucket
+*CHI:	0 .
+%act:	picks up the bucket and dumps the car out
+*INV:	0 .
+%act:	takes the bucket
+*INV:	he fell out_of the car .
+%mor:	pro:sub|he v|fall&PAST prep|out_of det:art|the n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%spa:	$DRE:ST
+%gpx:	points to where the car landed
+*INV:	can you get him and put him back in ?
+%mor:	mod|can pro:per|you v|get pro:obj|him coord|and v|put&ZERO
+	pro:obj|him adj|back adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|3|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	rights the car and puts the driver back in
+*INV:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$MRK:MK
+%tim:	00:50:04
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:AB
+*CHI:	0 .
+%act:	comes back and plays with the truck
+*INV:	0 .
+%act:	builds with the legos
+*CHI:	0 .
+%act:	rolls the truck over to where the car is
+*CHI:	0 .
+%act:	fixes the driver in the car
+*CHI:	0 .
+%act:	rolls the car and the truck around side by side
+%tim:	00:50:31
+*CHI:	0 .
+%act:	rolls the truck and the car back toward the rest of the legos
+*INV:	where are they going ?
+%mor:	pro:int|where cop|be&PRES pro:sub|they part|go-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+*INV:	are they going to the gas station ?
+%mor:	cop|be&PRES pro:sub|they part|go-PRESP prep|to det:art|the n|gas
+	n|station ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|1|PUNCT
+%spa:	$NIA:YQ
+*INV:	0 .
+%act:	rolls the tow truck toward CHI
+%tim:	00:51:05
+*CHI:	0 .
+%act:	picks up the tow truck
+*INV:	0 .
+%act:	connects two cars and rolls them to him
+*CHI:	0 .
+%act:	pulls the driver out of the tow truck and puts him in the first car
+*CHI:	0 .
+%act:	rolls the connected cars around
+*CHI:	0 .
+%act:	looks over a lego structure
+*CHI:	0 . [+ trn]
+%spa:	$NIA:YY:CO
+%act:	holds it out to the examiner and tears the door off
+*INV:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:QN
+%act:	takes the lego and looks it over
+%tim:	00:51:33
+*INV:	the door ?
+%mor:	det:art|the n|door ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:YQ
+%act:	leans over to look at the door he is holding
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AC
+%act:	sits back
+*CHI:	0 .
+%act:	starts to put the door back on
+*CHI:	0 .
+%act:	puts the rest of the lego down and tries to drive the fire truck in it
+*CHI:	0 .
+%act:	pulls the truck back and looks at it
+%tim:	00:52:02
+*CHI:	0 .
+%act:	tries again
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:EM:VO
+%act:	sets the truck on top
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:TO:VCO
+%act:	hands the truck to the examiner
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCT
+%gpx:	touches the lego
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCO
+%gpx:	holds his hand palm up
+*INV:	what's wrong ?
+%mor:	pro:int|what~aux|be&3S adj|wrong ?
+%gra:	1|0|INCROOT 2|4|AUX 3|2|PRED 4|1|PUNCT
+%spa:	$NIA:QN
+*INV:	it's too big .
+%mor:	pro:per|it~cop|be&3S adv|too adj|big .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:ST
+%act:	picks up the lego
+*INV:	the truck is too big .
+%mor:	det:art|the n|truck aux|be&3S adv|too adj|big .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%spa:	$NIA:ST
+%act:	sets the truck on the lego to show him it's too big
+*INV:	it won't fit .
+%mor:	pro:per|it mod|will~neg|not v|fit&ZERO .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:ST
+*INV:	it won't fit .
+%mor:	pro:per|it mod|will~neg|not v|fit&ZERO .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:ST
+%act:	puts the truck down
+*INV:	how about on this one ?
+%mor:	pro:int|how adv|about prep|on det:dem|this pro:indef|one ?
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|5|DET 5|3|POBJ 6|3|PUNCT
+%spa:	$NIA:RP
+%act:	starts to do something else with the lego
+*CHI:	0 . [+ trn]
+%spa:	$NIA:PF:NO
+%gpx:	pushes the lego back
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AC
+%act:	puts the lego down
+%tim:	00:52:29
+*INV:	0 .
+%act:	gets the bucket
+*INV:	Chi let's put these back in the bucket okay ?
+%mor:	n:prop|Chi v|let~pro:obj|us part|put&PASTP det:dem|these adj|back
+	prep|in det:art|the n|bucket co|okay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|DET 6|4|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|COM 11|2|PUNCT
+%spa:	$NIA:RP $NIA:YQ
+*INV:	can we put these back in the bucket ?
+%mor:	mod|can pro:sub|we v|put&ZERO det:dem|these adj|back prep|in
+	det:art|the n|bucket ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%spa:	$NIA:RP
+%act:	starts to put some legos in the bucket
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RD:VNO
+%act:	picks up the bucket to dump the legos back out
+*INV:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:YQ
+%act:	throws the legos in anyway
+*INV:	one ?
+%mor:	det:num|one ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$YYY:YY
+*CHI:	0 .
+%act:	dumps them out
+*CHI:	0 .
+%act:	sets the bucket away from her
+*INV:	0 .
+%act:	builds with the legos
+*CHI:	0 .
+%act:	builds with the legos
+*INV:	yyy .
+%spa:	$YYY:YY
+%gpx:	touches the lego he just put on
+%com:	spoke too quietly
+%tim:	00:53:00
+*INV:	0 . [+ trn]
+%spa:	$DHA:TO:CO
+%act:	holds out a lego to him
+*CHI:	0 .
+%act:	rolls the connected cars
+*INV:	0 .
+%act:	puts the lego she tried to hand him on the second car
+*CHI:	0 .
+%act:	rolls the cars backwards and one falls over
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	it crashed .
+%mor:	pro:per|it v|crash-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	reconnects the cars
+*INV:	hi Tony .
+%mor:	co|hi n:prop|Tony .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$MRK:MK
+%com:	someone else has entered the room
+*INV:	Chi look .
+%mor:	n:prop|Chi v|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$DHA:RP
+%gpx:	pats his back
+*INV:	it's Tony .
+%mor:	pro:per|it~aux|be&3S n:prop|Tony .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	hi .
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK:WD
+%act:	turns around to see
+*INV:	hi .
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:RT
+*CHI:	0 .
+%act:	rolls the cars
+*INV:	stop at the gas station .
+%mor:	n|stop prep|at det:art|the n|gas n|station .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+%spa:	$NIA:SI
+%tim:	00:53:31
+*CHI:	0 .
+%act:	sits back and looks at where the others went
+*CHI:	0 . [+ trn]
+%spa:	$DHA:YY:CO
+%gpx:	holds out his arm to show the examiner what he was scratching
+*INV:	it's a spot isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a n|spot cop|be&3S~neg|not pro:per|it
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|NEG 7|5|PRED 8|2|PUNCT
+%spa:	$DJF:ST $DJF:YQ
+%gpx:	nods and points to her own arm
+*INV:	does it itch ?
+%mor:	mod|do&3S pro:per|it v|itch ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:YQ
+%act:	pretends to scratch her arm
+*INV:	does it itch ?
+%mor:	mod|do&3S pro:per|it v|itch ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:YQ
+%act:	turns over his arm to see
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AC
+%tim:	00:53:57
+*CHI:	xxx . [+ trn]
+%spa:	$DHA:YY:VCO
+%act:	holds up his hands
+*CHI:	xxx . [+ trn]
+%spa:	$DJF:YY:VCO
+%act:	looks at his fingers
+*INV:	do you have spots on your fingers ?
+%mor:	mod|do pro:per|you v|have n|spot-PL prep|on det:poss|your
+	n|finger-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%spa:	$DCC:YQ
+%act:	holds up her own hands
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AC
+%gpx:	shakes her head and pretends to scratch her fingers
+*INV:	all_gone .
+%mor:	co|all_gone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	stands to look at her fingers
+*INV:	it's all_gone .
+%mor:	pro:per|it~cop|be&3S adj|all_gone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+*INV:	it's all_gone .
+%mor:	pro:per|it~cop|be&3S adj|all_gone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to his fingers
+*CHI:	0 . [+ trn]
+%spa:	$DHA:YY:CT
+%gpx:	points to her finger
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:AC
+*INV:	that's my finger .
+%mor:	pro:dem|that~cop|be&3S det:poss|my n|finger .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	xxx . [+ trn]
+%spa:	$DHA:YY:VCT
+*CHI:	xxx . [+ trn]
+%spa:	$DJF:YY:VCT
+%gpx:	points to his finger
+*INV:	that's your finger .
+%mor:	pro:dem|that~cop|be&3S det:poss|your n|finger .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to his finger
+*INV:	let's pick this up and get ready for snack .
+%mor:	v|let~pro:obj|us v|pick det:dem|this adv|up coord|and v|get v|ready
+	prep|for n|snack .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|JCT 6|3|CONJ 7|6|COORD 8|7|COMP
+	9|8|JCT 10|9|POBJ 11|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:ET:VO
+%act:	runs off toward the counter
+%tim:	00:54:30
+@Activities:	balloons
+*INV:	how about some bubbles ?
+%mor:	pro:int|how prep|about qn|some n|bubble-PL ?
+%gra:	1|3|LINK 2|3|JCT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%spa:	$NIA:RQ
+%tim:	01:17:43
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:AD:VO
+%act:	skips across room
+*INV:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RQ
+*CHI:	xxx . [+ trn]
+%spa:	$DHA:YY:VCO
+%act:	stops skipping and holds up foot
+*INV:	what's wrong ?
+%mor:	pro:int|what~aux|be&3S adj|wrong ?
+%gra:	1|0|INCROOT 2|4|AUX 3|2|PRED 4|1|PUNCT
+%spa:	$DCC:QN
+%act:	bends over
+*CHI:	xxx . [+ trn]
+%spa:	$DCC:SA:VCT
+%gpx:	bends over and touches his foot
+*INV:	is there something in your shoe ?
+%mor:	cop|be&3S adv|there pro:indef|something prep|in det:poss|your
+	n|shoe ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%spa:	$DCC:YQ
+%act:	squats to look at his foot
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCA
+%gpx:	points up toward the top cabinets
+*INV:	bubbles ?
+%mor:	n|bubble-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:YQ
+%act:	reaches up to get in the cabinet
+%tim:	01:18:01
+*CHI:	xxx . [+ trn]
+%spa:	$DCC:AN:VCO
+%gpx:	shakes his head and waves his finger around
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VCA
+*INV:	balloons ?
+%mor:	n|balloon-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:YQ
+*CHI:	xxx . [+ trn]
+%spa:	$DCC:YY:VO
+*INV:	0 .
+%act:	gets a sack of balloons out of the cabinet
+*CHI:	0 .
+%act:	jumps up and down
+*INV:	all right .
+%mor:	qn|all co|right .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:AD
+%act:	takes some balloons out of the bag
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VCA
+%gpx:	points at the balloons
+*INV:	red or blue ?
+%mor:	adj|red coord|or adj|blue ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%spa:	$NIA:TQ
+%act:	holds one in each hand
+*CHI:	0 .
+%act:	takes the red balloon
+*INV:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:TA
+%act:	puts the blue balloon back
+*CHI:	0 .
+%act:	runs across the room
+*INV:	0 .
+%act:	sits down by the wall
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VNO
+%gpx:	holds the balloon towards her mouth
+*INV:	it's a red balloon .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|red n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$NIA:ST
+%act:	takes the balloon
+%tim:	01:18:31
+*INV:	now what ?
+%mor:	adv|now pro:int|what ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:QN
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VO
+*INV:	blow it ?
+%mor:	v|blow pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DCC:YQ
+%act:	stretches the balloon
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VNO
+%gls:	buh
+%gpx:	puts the balloon in her hand close to her mouth
+*INV:	blow it ?
+%mor:	v|blow pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DCC:YQ
+*CHI:	xxx . [+ trn]
+%spa:	$DCC:AA:VO
+*INV:	0 .
+%act:	blows up the balloon
+*CHI:	0 .
+%act:	reaches for the balloon
+*INV:	pinch it .
+%mor:	v|pinch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*INV:	pinch it .
+%mor:	v|pinch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+%act:	stretches the balloon top so he can hold it
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VO
+%act:	takes the balloon
+*INV:	0 .
+%act:	thumps the balloon
+*CHI:	0 .
+%act:	takes the balloon to the air vent and lets go
+*INV:	xxx . [+ trn]
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	runs after the balloon
+*CHI:	0 . [+ trn]
+%spa:	$NIA:TO:CO
+%act:	gives her the balloon
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VO
+%gls:	muhi
+%tim:	01:19:01
+*CHI:	0 . [+ trn]
+%spa:	$NIA:RP:NT
+%gpx:	guides her hand with the balloon closer to her face
+*INV:	blow it ?
+%mor:	v|blow pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DCC:YQ
+*INV:	blow it ?
+%mor:	v|blow pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DCC:YQ
+*CHI:	xxx . [+ trn]
+%spa:	$DCC:AA:VO
+*INV:	0 .
+%act:	blows up the balloon
+*CHI:	0 .
+%act:	starts to take the balloon
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VCA
+%gpx:	snaps and points to the wall over the air vent
+*INV:	pinch it .
+%mor:	v|pinch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 [=! cries] . [+ trn]
+%spa:	$NIA:RD:VO
+*INV:	tie it ?
+%mor:	v|tie pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DCC:YQ
+*INV:	do you want me to tie it ?
+%mor:	mod|do pro:per|you v|want pro:obj|me inf|to v|tie pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|3|PUNCT
+%spa:	$DCC:YQ
+*CHI:	xxx . [+ trn]
+%spa:	$DCC:AN:NO
+%act:	grabs the balloon
+*INV:	0 .
+%act:	lets go of the balloon
+*INV:	&-uh .
+%spa:	$MRK:MK
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:EM:VCA
+%gpx:	stomps his feet and points to where the balloon landed
+*INV:	get it .
+%mor:	v|get pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to the balloon
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:EM:VO
+%act:	gets the balloon
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:EM:VNO
+%act:	brings the balloon back
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:CP
+%gpx:	screams and points to the wall over the air vent
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+%act:	takes the balloon
+*INV:	let me tie it .
+%mor:	v|let&ZERO pro:obj|me v|tie pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%spa:	$NIA:RP
+*INV:	let me tie it .
+%mor:	v|let&ZERO pro:obj|me v|tie pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 [=! cries] . [+ trn]
+%spa:	$NIA:EM:VO
+%act:	sits down
+*INV:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RP
+%act:	touches him with a finger
+*INV:	0 .
+%act:	blows up the balloon
+%tim:	01:19:30
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RP
+%act:	ties the balloon
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	xxx . [+ trn]
+%spa:	$YYY:RT
+%com:	is mimicing CHI
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:RP:VCR
+%gpx:	turns and points at wall above air vent again
+*CHI:	xxx . [+ trn]
+%spa:	$NIA:YY:VNT
+%act:	bounces on his knees while holding her arm
+*INV:	bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	lets the balloon go over the vent
+*CHI:	xxx .
+*CHI:	0 .
+%act:	watches the balloon fly up and down over the vent
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	there it goes .
+%mor:	adv|there pro:per|it v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:ST
+*INV:	it came back down .
+%mor:	pro:per|it v|come&PAST adv|back adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	gets the balloon and puts it back over the vent
+*CHI:	0 .
+%act:	steps back so he can watch the balloon
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	scoots the balloon back over the vent
+%tim:	01:20:01
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	up up up up .
+%mor:	adv|up adv|up adv|up adv|up .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+%spa:	$DJF:ST
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	bye bye .
+%mor:	co|bye co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$MRK:MK
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	scoots the balloon back over the vent
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	scoots the balloon back
+*CHI:	0 .
+%act:	jumps up and down
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+%tim:	01:20:30
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	puts the balloon back over the vent but misses
+*CHI:	0 .
+%act:	kicks it over
+*CHI:	0 .
+%act:	steps back and jumps up and down
+*INV:	0 .
+%act:	scoots the balloon back for him
+*CHI:	0 .
+%act:	jumps up and down
+*CHI:	0 . [+ trn]
+%spa:	$DHA:YY:CA
+%gpx:	stops jumping and points up at the balloon
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	it's gone .
+%mor:	pro:per|it~aux|be&3S part|go&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:ST
+*INV:	where did it go ?
+%mor:	pro:int|where mod|do&PAST pro:per|it v|go ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$DJF:QN
+%tim:	01:21:01
+*CHI:	0 .
+%act:	looks up at the examiner back up
+*INV:	I see it Chi .
+%mor:	pro:sub|I v|see pro:per|it n:prop|Chi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	stands close to the wall and looks straight up
+*CHI:	xxx . [+ trn]
+%spa:	$DJF:YY:VCA
+%gpx:	steps back and points up
+*INV:	I think it's gone .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S part|go&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+%spa:	$DSS:ST
+*CHI:	0 .
+%act:	stands close to the wall to look again
+*INV:	maybe it'll come down .
+%mor:	adv|maybe pro:per|it~mod|will v|come adv|down .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 . [+ trn]
+%spa:	$DJF:YY:CA
+%gpx:	points up
+*INV:	here it comes .
+%mor:	adv|here pro:per|it v|come-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:ST
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*INV:	it hit my nose .
+%mor:	pro:per|it v|hit&ZERO det:poss|my n|nose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DRE:ST
+%act:	bats the balloon towards CHI
+*CHI:	0 .
+%act:	scoots the balloon over the air vent
+*INV:	red balloon .
+%mor:	adj|red n|balloon .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	jumps up and down
+*INV:	going up .
+%mor:	part|go-PRESP adv|up .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%spa:	$DJF:ST
+%tim:	01:21:33
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	scoots it back over then jumps up and down some more
+*INV:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	scoots the balloon back
+*CHI:	0 .
+%act:	jumps
+*INV:	what's happening ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:QN
+*CHI:	0 .
+%act:	scoots the balloon
+%tim:	01:22:02
+*INV:	push it .
+%mor:	v|push pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	gets it over the vent then jumps up and down
+*CHI:	0 .
+%act:	scoots the balloon and sits down
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:SI
+%act:	looks up at the balloon
+*INV:	up [>] .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+%act:	exaggerates looking at the balloon go up and down
+*CHI:	0 [<] .
+%act:	also looks way up then way down
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+%act:	looks up at the balloon
+*INV:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:RP
+*CHI:	0 .
+%act:	looks at her then across the room
+*INV:	it's going up isn't it Tony ?
+%mor:	pro:per|it~aux|be&3S part|go-PRESP adv|up cop|be&3S~neg|not
+	pro:per|it n:prop|Tony ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|NEG 7|5|PRED 8|7|OM
+	9|3|PUNCT
+%spa:	$DJF:ST $DJF:YQ
+%act:	looks up at the balloon
+%com:	another examiner was heard commenting on the balloon
+%tim:	01:22:35
+*CHI:	0 .
+%act:	looks up at the balloon
+*INV:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	stands and reaches for the balloon
+*INV:	grab it .
+%mor:	v|grab pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	misses it and it goes back up
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+%act:	holds her hand over the vent
+*INV:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	xxx .
+%act:	reaches trying to catch it
+*INV:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*INV:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	pushes it to the floor
+*INV:	there you go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:MK
+*CHI:	0 .
+%act:	scoots it over the air vent
+%tim:	01:23:03
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	jumps up and down
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+*INV:	it's coming down .
+%mor:	pro:per|it~aux|be&3S part|come-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	tries to catch it
+*INV:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	corners it between her and the wall
+*CHI:	0 .
+%act:	puts it back over the vent
+*INV:	0 .
+%act:	knocks it away from the vent when it comes back down
+*CHI:	0 .
+%act:	hits it toward her
+*INV:	0 .
+%act:	hits it back
+*CHI:	0 .
+%act:	scoots it across the floor to the vent
+%tim:	01:23:33
+*INV:	0 .
+%act:	knocks it away again
+*CHI:	0 .
+%act:	picks up the balloon
+*CHI:	0 . [+ trn]
+%spa:	$NIA:RP:NT
+%gpx:	takes her arm and pushes her
+*INV:	move over ?
+%mor:	v|move adv|over ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$DCA:YQ
+*INV:	&=laughs .
+%act:	catches him and scoots over
+*INV:	go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	lets the balloon go over the vent
+*CHI:	0 .
+%act:	stands with his face over the vent
+*CHI:	0 .
+%act:	sits
+*INV:	here comes the balloon .
+%mor:	adv|here v|come-3S det:art|the n|balloon .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DHA:ST
+*CHI:	0 .
+%act:	watches the people at the closet
+*INV:	0 . [+ trn]
+%spa:	$DHA:YY:CO
+%act:	throws the balloon in his lap
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VCA
+%gpx:	points across the room
+%tim:	01:24:00
+*INV:	there's Christy .
+%mor:	pro:exist|there~cop|be&3S n:prop|Christy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DHA:ST
+%gpx:	points
+*INV2:	hi Chi .
+%mor:	co|hi n:prop|Chi .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$MRK:MK
+*CHI:	0 . [+ trn]
+%spa:	$YYY:YY:CA
+%gpx:	points
+*INV:	there's Christy .
+%mor:	pro:exist|there~cop|be&3S n:prop|Christy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+*INV2:	&=laughs .
+*CHI:	0 .
+%act:	paws at the floor in front of him
+*INV:	0 . [+ trn]
+%spa:	$DHA:YY:CO
+%act:	throws the balloon and hits him in the head with it
+*CHI:	0 .
+%act:	gets up
+*INV:	0 .
+%act:	hits him in the head with the balloon again
+*INV:	0 .
+%act:	hits him again
+*INV:	0 .
+%act:	bounces the balloon
+*CHI:	0 .
+%act:	walks around in a big circle
+*INV:	there it goes .
+%mor:	adv|there pro:per|it v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$NIA:ST
+*CHI:	0 .
+%act:	watches the balloon
+*CHI:	0 .
+%act:	squats and paws the floor
+*CHI:	xxx .
+%act:	sits
+*INV:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+%tim:	01:24:31
+*CHI:	xxx .
+%act:	paws the floor some more
+*INV:	yyy .
+%com:	bends over and says something to him not understood due to camera operator singing into the microphone
+*CHI:	0 .
+%act:	holds his hands up and shakes them
+*CHI:	0 .
+%act:	puts both hands on the vent
+*INV:	get the balloon .
+%mor:	v|get det:art|the n|balloon .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:RP
+%act:	pats his leg
+*INV:	let's find something else to play .
+%mor:	v|let~pro:obj|us v|find pro:indef|something post|else prep|to
+	n|play .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|4|PQ 6|3|JCT 7|6|POBJ 8|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	rubs the carpet then puts his hands back on the vent
+*INV:	0 . [+ trn]
+%spa:	$DHA:RP:CA
+%gpx:	points to the balloon
+%tim:	01:24:58
+*INV:	let's put the balloon away .
+%mor:	v|let~pro:obj|us v|put&ZERO det:art|the n|balloon adv|away .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|1|PUNCT
+%spa:	$NIA:RP
+*INV:	0 .
+%act:	stands
+*CHI:	0 .
+%act:	tries to get the balloon
+*INV:	0 .
+%act:	catches it for him
+*INV:	let's put it away .
+%mor:	v|let~pro:obj|us v|put&ZERO pro:per|it adv|away .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	points across the room
+*CHI:	0 .
+%act:	runs across the room with it
+*CHI:	0 . [+ trn]
+%spa:	$NIA:RP:CB
+%gpx:	reaches up with the balloon
+*INV:	shall we put it in the cupboard ?
+%mor:	mod|shall pro:sub|we v|put&ZERO pro:per|it prep|in det:art|the
+	n|cupboard ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%spa:	$NIA:RQ
+*INV:	bye bye .
+%mor:	co|bye co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:MK
+*CHI:	0 . [+ trn]
+%spa:	$YYY:YY:CA
+%gpx:	points across the room
+%tim:	01:25:26
+@End

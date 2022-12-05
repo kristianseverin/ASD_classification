@@ -1,0 +1,8 @@
+The corpus folder contains datafiles from:
+    - Eigsti (files called 1010-1085 .cha)
+    - Nadig (files called 101-169 .cha)
+
+
+Not in the corpus folder yet, because the group (ASD/TD) is accessed somewhere other than in the 
+Eigsti and Nadig files, so I need to alter my function, or write a separate one for this data.
+    - Rollins (files called 0xxx00 .cha)

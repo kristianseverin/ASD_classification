@@ -1,0 +1,1472 @@
+@UTF8
+@PID:	11312/c-00005931-1
+@Begin
+@Languages:	eng
+@Participants:	CHI James Target_Child , INV Investigator
+@ID:	eng|Rollins|CHI|2;08.|male|||Target_Child|||
+@ID:	eng|Rollins|INV|||||Investigator|||
+@Activities:	puzzle
+@Types:	long, toyplay, ASD
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	moves hand near door
+*CHI:	0 .
+%act:	closes the door
+%tim:	00:00:04
+*INV:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$NIA:AP
+%act:	grabs doorknob
+*INV:	&-uh .
+%spa:	$MRK:MK
+%act:	closes door
+*INV:	close the door .
+%mor:	v|close det:art|the n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:SI
+*CHI:	0 .
+%act:	puts hand on doorknob
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	turns to Clinician and grabs her pants
+*INV:	should we do the puzzle now ?
+%mor:	mod|should pro:sub|we v|do det:art|the n|puzzle adv|now ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:RQ
+%gpx:	points
+*CHI:	0 .
+%act:	looks up at Clinician
+%tim:	00:00:10
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	pulls Clinician's arm
+%com:	sounds like 'choo'
+*INV:	0 .
+%act:	squats down
+*INV:	hm: ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:RR
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	pulls on Clinician's arm
+%com:	sounds like 'choo'
+*INV:	where are we going ?
+%mor:	pro:int|where cop|be&PRES pro:sub|we part|go-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	looks toward door and pulls EXP's arm
+%com:	sounds like 'choo'
+*CHI:	yyy yyy .
+%spa:	$YYY:YY:VO
+%act:	looks at Clinician
+*INV:	0 .
+%act:	brings the puzzle to chi
+*INV:	should we do the puzzle ?
+%mor:	mod|should pro:sub|we v|do det:art|the n|puzzle ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%spa:	$NIA:RQ
+*CHI:	puzzle .
+%mor:	n|puzzle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RT:WD
+%act:	grabs the puzzle
+*CHI:	0 .
+%spa:	$NIA:RD:CO
+%act:	drops the puzzle on the table
+*INV:	are we all done ?
+%mor:	cop|be&PRES pro:sub|we post|all part|do&PASTP ?
+%gra:	1|4|AUX 2|4|SUBJ 3|2|PQ 4|0|ROOT 5|4|PUNCT
+%spa:	$DCA:QN
+%act:	holds hands out
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	turns to the door and puts hand on doorknob
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	looks at table
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	looks at table
+*INV:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:RP
+%act:	slides puzzle
+*INV:	they fell out .
+%mor:	pro:sub|they v|fall&PAST adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$DRE:ST
+*INV:	we needta put them in .
+%mor:	pro:sub|we v|need~inf|to v|put&ZERO pro:obj|them adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RP
+%act:	hands piece to chi
+*INV:	can you put it in ?
+%mor:	mod|can pro:per|you v|put&ZERO pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+*CHI:	xxx .
+%spa:	$NIA:RD:VNO
+%act:	hits piece to floor
+*CHI:	0 .
+%act:	hangs on doorknob
+*INV:	we needta put them in .
+%mor:	pro:sub|we v|need~inf|to v|put&ZERO pro:obj|them adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RP
+%act:	picks piece up from floor
+*INV:	I'll put the dogs in .
+%mor:	pro:sub|I~mod|will v|put&ZERO det:art|the n|dog-PL adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:SI
+%act:	shows piece to chi
+*INV:	they go right here .
+%mor:	pro:sub|they v|go adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:ST
+%act:	puts piece in puzzle
+*INV:	0 .
+%act:	gets another piece
+*INV:	here's the ducks .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|duck-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+%act:	shows piece to chi
+*CHI:	0 .
+%act:	brings hand off doorknob to look at piece
+*CHI:	0 .
+%act:	puts hand back on doorknob
+*CHI:	xxx .
+%act:	hangs against the door
+*INV:	the ducks go right here .
+%mor:	det:art|the n|duck-PL v|go adv|right adv|here .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:ST
+%gpx:	points to puzzle
+*INV:	0 .
+%act:	puts piece on puzzle
+*CHI:	0 .
+%act:	swings around a little
+*INV:	can you push it in ?
+%mor:	mod|can pro:per|you v|push pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to piece
+%tim:	00:00:48
+*CHI:	xxx .
+%act:	swings out from the door
+*INV:	Chi .
+%mor:	n:prop|Chi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NMA:CL
+%act:	looks at chi
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	touches puzzle and looks at Clinician
+*INV:	can you push it in ?
+%mor:	mod|can pro:per|you v|push pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	xxx .
+%act:	takes pieces out
+*INV:	you're taking them out .
+%mor:	pro:per|you~aux|be&PRES part|take-PRESP pro:obj|them adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:SI
+%act:	holds hands up
+*CHI:	&=laughs .
+%act:	looks at Clinician and smiles
+*CHI:	0 .
+%act:	plays with puzzle
+*INV:	you silly boy .
+%mor:	pro:per|you co|silly n|boy .
+%gra:	1|2|SUBJ 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	$DHS:ST
+%act:	touches chi's back
+*CHI:	0 .
+%act:	dumps the puzzle over
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	holds hands up
+*CHI:	0 .
+%act:	dumps puzzle
+*INV:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$MRK:MK
+*INV:	they all fell out .
+%mor:	pro:sub|they post|all v|fall&PAST adv|out .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$DRE:ST
+%act:	picking up pieces from the floor
+*CHI:	xxx .
+%act:	messing with the puzzle
+*CHI:	0 .
+%act:	drops the puzzle
+*CHI:	0 .
+%act:	looks at floor
+*INV:	0 .
+%act:	shakes her head
+*INV:	let's pick them up .
+%mor:	v|let~pro:obj|us v|pick pro:obj|them adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%spa:	$NIA:SI
+%act:	puts puzzle and pieces on table
+*CHI:	xxx .
+%act:	looks at puzzle and smiles
+*INV:	we needta put them on the table .
+%mor:	pro:sub|we v|need~inf|to v|put&ZERO pro:obj|them prep|on
+	det:art|the n|table .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%spa:	$NIA:RP
+%act:	looking at the floor
+*CHI:	xxx .
+%act:	backs up to the wall while watching Clinician
+*CHI:	xxx [>] .
+*INV:	<you wanna sit down> [<] ?
+%mor:	pro:per|you v|want~inf|to v|sit adv|down ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+%spa:	$NIA:RQ
+%act:	pulls out chair
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	looks at chair
+*INV:	0 .
+%act:	taps chair
+*INV:	you wanna sit in the chair ?
+%mor:	pro:per|you v|want~inf|to v|sit prep|in det:art|the n|chair ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%spa:	$NIA:RQ
+%act:	looks at chi
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%gpx:	leans and touches chair
+%com:	sounds like chair
+%tim:	00:01:17
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	sits down
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	looks up
+*INV:	here's the dogs .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|dog-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+%act:	hands chi a piece
+*CHI:	0 .
+%act:	puts piece on puzzle
+*INV:	they go up here .
+%mor:	pro:sub|they v|go prep|up n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	0 .
+%act:	turns piece over
+*CHI:	0 .
+%act:	gets another piece
+*INV:	0 .
+%act:	moves piece to right place
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	there's the giraffe .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|giraffe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	puts piece to mouth
+*INV:	it's big .
+%mor:	pro:per|it~cop|be&3S adj|big .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+%act:	points to piece
+*CHI:	0 .
+%act:	looks at giraffe
+*INV:	that's a big giraffe .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|big n|giraffe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	puts piece to face
+*CHI:	xxx .
+%act:	looks at piece
+*CHI:	0 .
+%act:	puts piece on puzzle
+*INV:	it goes right here .
+%mor:	pro:per|it v|go-3S adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:ST
+%act:	moves piece to right place
+*INV:	you did it !
+%mor:	pro:per|you v|do&PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DRE:ET
+%act:	lifts hands
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	here's the (.) chicken .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|chicken .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+%act:	brings piece to chi
+*CHI:	0 .
+%act:	pushes piece down to puzzle
+*CHI:	0 .
+%act:	looks at camera
+*INV:	chicken says +...
+%mor:	n|chicken v|say-3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$DJF:EA
+%act:	looks at chi
+*CHI:	chick .
+%mor:	n|chick .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:RT:WD
+%act:	looks at Clinician
+*INV:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:AP
+%act:	points to puzzle
+*INV:	it's the chicken .
+%mor:	pro:per|it~cop|be&3S det:art|the n|chicken .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+%tim:	00:01:47
+*CHI:	0 .
+%act:	moves piece around on the puzzle
+*INV:	the chicken says +...
+%mor:	det:art|the n|chicken v|say-3S +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:EA
+*CHI:	yyy .
+%spa:	$SDS:YY:VO
+%act:	looks up
+*INV:	bac@o bac@o bac@o bac@o bac@o bac@o .
+%mor:	on|bac on|bac on|bac on|bac on|bac on|bac .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+%spa:	$DJF:PR
+%com:	chicken noises
+*CHI:	0 .
+%act:	looks at wall
+*INV:	here's the chicken .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|chicken .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+%act:	touches the chicken piece
+*CHI:	0 .
+%act:	looks down at puzzle
+*CHI:	0 .
+%act:	tries to fit it in
+*INV:	it goes right here .
+%mor:	pro:per|it v|go-3S adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	xxx .
+%act:	looks at puzzle
+*INV:	look Chi .
+%mor:	v|look n:prop|Chi .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DHA:RP
+%gpx:	points to puzzle
+*INV:	it goes right here .
+%mor:	pro:per|it v|go-3S adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	xxx .
+%act:	looks up
+*INV:	can you put it in ?
+%mor:	mod|can pro:per|you v|put&ZERO pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	taps puzzle
+*CHI:	0 .
+%act:	looks around
+*CHI:	xxx [>] .
+%act:	looks around
+*INV:	I'll help you [<] .
+%mor:	pro:sub|I~mod|will v|help pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:SI
+%act:	moves piece
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:RP
+*INV:	it goes right there .
+%mor:	pro:per|it v|go-3S adv|right adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:ST
+%act:	moves piece to right spot
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	moves piece and looks at Clinician
+*INV:	you need help ?
+%mor:	pro:per|you v|need n|help ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DCC:YQ
+*CHI:	help .
+%mor:	n|help .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DCC:AA:WD
+%act:	puts hands on puzzle
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+%act:	puts hand on chi's hand to fit piece
+*CHI:	0 .
+%act:	looks at Clinician
+*INV:	I'll help .
+%mor:	pro:sub|I~mod|will co|help .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%spa:	$NIA:SI
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	right (.) there .
+%mor:	adv|right adv|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:ST
+%act:	moves piece into space
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	puts hands up
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	you did it !
+%mor:	pro:per|you v|do&PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DRE:ET
+%act:	leans over to look at chi
+%tim:	00:02:14
+*CHI:	0 .
+%act:	looks at puzzle and smiles
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:PM
+*CHI:	xxx .
+%act:	takes piece out of puzzle
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	puts hands in air
+*INV:	you took the giraffe out .
+%mor:	pro:per|you v|take&PAST det:art|the n|giraffe adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	giraffe .
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RT:WD
+%act:	pushes puzzle
+*INV:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$MRK:MK
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	leans over to get a piece
+*CHI:	&=laughs .
+%act:	looks at Clinician getting piece
+*INV:	here's the lamb .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|lamb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	shows chi the piece
+*CHI:	xxx .
+%act:	pushes piece down
+*INV:	the lamb goes up here .
+%mor:	det:art|the n|lamb v|go-3S prep|up n|here .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	&=laugh .
+%act:	pushes piece on table
+*CHI:	&=laugh [>] .
+%act:	looks at Clinician
+*INV:	<you silly> [<] .
+%mor:	pro:per|you co|silly .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%spa:	$DHS:ST
+%act:	tickles him
+*CHI:	&=laugh [>] .
+*INV:	<you're being silly Chi> [<] .
+%mor:	pro:per|you~aux|be&PRES part|be-PRESP adj|silly n:prop|Chi .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PRED 6|3|PUNCT
+%spa:	$DHS:ST
+*INV:	0 .
+%act:	hands chi a piece
+*CHI:	&=laughs .
+%act:	puts the piece on the table
+*INV:	it goes right here .
+%mor:	pro:per|it v|go-3S adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	0 .
+%act:	puts piece on puzzle
+%tim:	00:02:34
+*CHI:	0 .
+%act:	puts another piece on puzzle
+*CHI:	0 .
+%act:	moves piece around
+*CHI:	0 .
+%act:	picks up the piece
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	holds piece close to him
+*INV:	I'll put the lamb in .
+%mor:	pro:sub|I~mod|will v|put&ZERO det:art|the n|lamb adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:SI
+%act:	puts piece in puzzle
+*CHI:	0 .
+%act:	puts piece to lips
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	moving piece around in his hand
+*INV:	the giraffe .
+%mor:	det:art|the n|giraffe .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:ST
+%act:	points to piece in chi's hand
+*CHI:	0 .
+%act:	moves piece around in his hand
+*INV:	you have the giraffe .
+%mor:	pro:per|you v|have det:art|the n|giraffe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	puts piece to face
+*INV:	can you put it in ?
+%mor:	mod|can pro:per|you v|put&ZERO pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	puts piece on puzzle
+*INV:	put it in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+%act:	reaches for piece but pulls back
+*CHI:	xxx .
+%act:	takes piece to face
+%tim:	00:02:53
+*CHI:	0 .
+%act:	plays with piece in hand
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	puts piece on puzzle
+*INV:	you needta turn it over .
+%mor:	pro:per|you v|need~inf|to v|turn pro:per|it adv|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to piece
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	looks at Clinician and puts piece on puzzle
+*INV:	want help ?
+%mor:	v|want n|help ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DCC:YQ
+%act:	puts hand on chi's hand to move piece
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	lifts hand
+*CHI:	xxx [>] .
+*INV:	almost [<] .
+%mor:	adv|almost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:MK
+*CHI:	xxx [>] .
+%act:	moving piece around
+*INV:	<push it in> [<] .
+%mor:	v|push pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	pushes piece in place
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%gpx:	points to piece
+*INV:	you did it !
+%mor:	pro:per|you v|do&PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DRE:ET
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	reaches for another piece
+*INV:	there's the pigs .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|pig-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to piece
+*CHI:	0 .
+%act:	looks at piece
+*CHI:	0 .
+%act:	bring piece to face
+*INV:	you have the pigs .
+%mor:	pro:per|you v|have det:art|the n|pig-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to piece
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:YY:WD
+%act:	puts piece on puzzle
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:YY:WD
+%act:	tries to fit in in a space
+*INV:	the pigs go down here Chi .
+%mor:	det:art|the n|pig-PL v|go prep|down n|here n:prop|Chi .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to space
+%tim:	00:03:16
+*CHI:	0 .
+%act:	tries to fit in space
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	moves hands on puzzle
+*INV:	they go down here .
+%mor:	pro:sub|they v|go prep|down n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	moves piece around
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	reaches for juice
+*INV:	0 .
+%act:	reaches for puzzle piece
+*INV:	you want some juice .
+%mor:	pro:per|you v|want qn|some n|juice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%spa:	$DHS:ST
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	reaches for the piece Clinician has
+*INV:	pigs go right here .
+%mor:	n|pig-PL v|go adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:YY:WD
+%act:	moves piece to space
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	moves piece around
+%com:	sounds like 'pi'
+*INV:	<push (th)em in> [>] .
+%mor:	v|push pro:obj|them adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	xxx [<] . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	moves piece around
+%com:	sounds like 'pi'
+*INV:	push it in .
+%mor:	v|push pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:YY:WD
+%act:	looks at Clinician
+*INV:	the pigs .
+%mor:	det:art|the n|pig-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$DJF:CT
+*INV:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:AP
+%act:	reaches for the piece
+*INV:	here's the pigs .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|pig-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	shows piece to chi
+*CHI:	xxx .
+%act:	knocks the piece down
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*CHI:	0 .
+%act:	looks at piece
+*INV:	right here ?
+%mor:	adv|right adv|here ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to space
+%tim:	00:03:42
+*CHI:	0 .
+%act:	plays with the piece
+*INV:	let's turn it over .
+%mor:	v|let~pro:obj|us v|turn pro:per|it adv|over .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%spa:	$NIA:SI
+%act:	turns piece over
+*INV:	push it in .
+%mor:	v|push pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	puts piece on puzzle
+*CHI:	0 .
+%act:	looks down
+*INV:	can you push it in Chi ?
+%mor:	mod|can pro:per|you v|push pro:per|it prep|in n:prop|Chi ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to piece
+*INV:	I'll push your chair up .
+%mor:	pro:sub|I~mod|will v|push det:poss|your n|chair adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:SI
+%act:	pushes chair up
+*CHI:	0 [=! coughs] .
+*CHI:	0 .
+%act:	moves piece
+*CHI:	&=cough [>] .
+%act:	pushes piece into puzzle
+*INV:	almost [<] .
+%mor:	adv|almost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:MK
+*CHI:	0 .
+%act:	tries to push piece in
+*CHI:	0 .
+%act:	pushes piece into place
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	raises hands
+*INV:	you did it !
+%mor:	pro:per|you v|do&PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DRE:ET
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:PM
+*CHI:	0 .
+%act:	reaches for juice
+*INV:	you put the pigs in .
+%mor:	pro:per|you v|put&ZERO det:art|the n|pig-PL adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%spa:	$DRE:ST
+%gpx:	points to puzzle
+*CHI:	pig .
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DRE:RT:WD
+%act:	grabs juice
+*CHI:	0 .
+%act:	drinks juice
+*INV:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DRE:AC
+*INV:	you put the pigs in .
+%mor:	pro:per|you v|put&ZERO det:art|the n|pig-PL adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	puts juice down
+%tim:	00:04:07
+*CHI:	0 .
+%act:	looks at Clinician
+*INV:	how about the ducks ?
+%mor:	pro:int|how adv|about det:art|the n|duck-PL ?
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%spa:	$DHA:RQ
+%act:	reaches for piece
+*CHI:	0 .
+%gpx:	gets the piece
+*INV:	the duck says +...
+%mor:	det:art|the n|duck v|say-3S +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:EA
+*CHI:	0 .
+%act:	moves piece
+*INV:	quack@o quack@o quack@o .
+%mor:	on|quack on|quack on|quack .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%spa:	$DJF:PR
+*INV:	here's the ducks .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|duck-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to piece
+*CHI:	0 .
+%act:	looks at camera
+*INV:	the duck says +...
+%mor:	det:art|the n|duck v|say-3S +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:EA
+%gpx:	points to piece
+*INV:	0 .
+%act:	looks at chi
+*CHI:	0 .
+%act:	moves piece
+*CHI:	yyy <yyy [= jargon]> [>] .
+%spa:	$YYY:YY:VJ
+%act:	moves piece
+*INV:	<quack@o quack@o quack@o> [<] .
+%mor:	on|quack on|quack on|quack .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%spa:	$DJF:PR
+*CHI:	xxx .
+%act:	moves piece
+*CHI:	0 .
+%act:	reaches for juice
+*INV:	the ducks go over here .
+%mor:	det:art|the n|duck-PL v|go prep|over n|here .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	0 .
+%act:	drinks juice
+*CHI:	0 .
+%act:	puts juice down and smiles at camera
+*CHI:	xxx .
+%act:	puts juice down
+*INV:	look Chi .
+%mor:	v|look n:prop|Chi .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$DHA:RP
+%gpx:	takes piece out of puzzle
+*INV:	the ducks (.) go right here .
+%mor:	det:art|the n|duck-PL v|go adv|right adv|here .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%act:	taps on puzzle with piece
+*CHI:	0 .
+%act:	looks at puzzle
+*CHI:	0 .
+%act:	moves piece to right spot
+*INV:	they go right here .
+%mor:	pro:sub|they v|go adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	0 .
+%act:	pushing on piece
+*INV:	push it in ?
+%mor:	v|push pro:per|it adv|in ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%act:	pushes on piece
+*INV:	can you push it in ?
+%mor:	mod|can pro:per|you v|push pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%tim:	00:04:47
+*CHI:	0 .
+%act:	moves hand to juice
+*INV:	I'll help .
+%mor:	pro:sub|I~mod|will co|help .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%spa:	$NIA:SI
+%act:	moves piece to right on top of space
+*CHI:	0 .
+%act:	puts hand on top of piece
+*CHI:	0 .
+%act:	looks around
+*INV:	did you do it ?
+%mor:	mod|do&PAST pro:per|you v|do pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$DRE:YQ
+%act:	moves chi's hand
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%gpx:	points to puzzle
+*INV:	you did it .
+%mor:	pro:per|you v|do&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	taps fingers on piece
+*INV:	you put the ducks in .
+%mor:	pro:per|you v|put&ZERO det:art|the n|duck-PL adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%spa:	$DRE:ST
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:PM
+%act:	looks at chi
+*INV:	there's one more .
+%mor:	pro:exist|there~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	gets last piece for chi
+*CHI:	0 .
+%act:	takes the piece
+*INV:	that's the cat .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|cat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to piece
+*CHI:	0 .
+%act:	moves piece to space
+*INV:	cat says meow@o .
+%mor:	n|cat v|say-3S on|meow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	moves piece to fit better
+*INV:	meow@o .
+%mor:	on|meow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:PR
+%act:	tickles chi
+*CHI:	0 .
+%act:	looks at piece
+*INV:	can you put it in ?
+%mor:	mod|can pro:per|you v|put&ZERO pro:per|it adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+%tim:	00:05:20
+*CHI:	0 .
+%act:	looks up
+*CHI:	xxx .
+%act:	scratches ear
+*INV:	can you put the cats in ?
+%mor:	mod|can pro:per|you v|put&ZERO det:art|the n|cat-PL adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+*CHI:	xxx .
+%act:	pushes on piece
+*CHI:	0 .
+%act:	moves piece
+*CHI:	0 .
+%act:	gets his juice
+*INV:	I'll help .
+%mor:	pro:sub|I~mod|will co|help .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%spa:	$NIA:SI
+%act:	grabs piece
+*CHI:	0 .
+%act:	drinks juice
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+%act:	lifts piece up
+*INV:	put it in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	puts piece down into space
+*INV:	take it out .
+%mor:	v|take pro:per|it adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	takes piece out
+*INV:	0 .
+%act:	puts piece on puzzle
+*INV:	your turn .
+%mor:	det:poss|your n|turn .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:MK
+*CHI:	0 .
+%act:	pushes piece
+*CHI:	0 .
+%act:	puts juice down
+*INV:	your turn .
+%mor:	det:poss|your n|turn .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:MK
+*CHI:	0 .
+%act:	puts hand on piece
+*CHI:	0 .
+%act:	puts piece in
+*INV:	you put it in .
+%mor:	pro:per|you v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+%act:	puts hand up
+*CHI:	0 .
+%act:	scratches ear
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:PM
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*INV:	0 .
+%act:	takes piece out of puzzle
+*INV:	I took it out .
+%mor:	pro:sub|I v|take&PAST pro:per|it adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+%tim:	00:05:47
+*INV:	0 .
+%act:	grabs piece
+*CHI:	0 .
+%act:	puts hand on piece
+*INV:	I'm gonna put it (.) in .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|put&ZERO pro:per|it
+	adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+%spa:	$NIA:SI
+%act:	puts piece in puzzle
+*CHI:	0 .
+%act:	takes piece out
+*INV:	0 .
+%act:	flicks hand
+*INV:	you took it out Chi .
+%mor:	pro:per|you v|take&PAST pro:per|it adv|out n:prop|Chi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	pushes piece back in
+*INV:	put it in ?
+%mor:	v|put&ZERO pro:per|it adv|in ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	put in .
+%mor:	v|put&ZERO adv|in .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$NIA:RT:WD
+%act:	gets juice and drinks it
+*INV:	put it in .
+%mor:	v|put&ZERO pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	starts to push piece in
+*CHI:	0 .
+%act:	pushes piece down
+*INV:	you put it in .
+%mor:	pro:per|you v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$DRE:ST
+*CHI:	0 .
+%act:	puts juice down
+*CHI:	0 .
+%act:	bangs juice on wall/table
+*CHI:	0 .
+%act:	looks around
+%tim:	00:06:15
+*INV:	the horses ?
+%mor:	det:art|the n|horse-PL ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%spa:	$DHA:YY
+%act:	picks up piece from puzzle
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	here's the horses .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|horse-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	moves piece around
+*INV:	the horse says +...
+%mor:	det:art|the n|horse v|say-3S +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:EA
+*CHI:	0 .
+%act:	takes juice
+*INV:	the horse says +...
+%mor:	det:art|the n|horse v|say-3S +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$DJF:EA
+%gpx:	points to piece
+*CHI:	0 .
+%act:	drinks juice and looks at camera
+*CHI:	0 .
+%act:	puts juice down
+*CHI:	0 [=! coughs] .
+*INV:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$MRK:MK
+%act:	looks at chi
+*INV:	you okay ?
+%mor:	pro:per|you co|okay ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%spa:	$DHS:YQ
+%act:	touches chi's arm
+*CHI:	0 .
+%act:	looks down
+*CHI:	0 .
+%act:	puts juice down
+*CHI:	0 .
+%act:	moves finger in juice on table
+*INV:	did you make a mess ?
+%mor:	mod|do&PAST pro:per|you v|make det:art|a n|mess ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%spa:	$DRE:YQ
+%act:	moves piece on puzzle
+*CHI:	0 .
+%act:	puts hand on puzzle
+*INV:	it's wet .
+%mor:	pro:per|it~cop|be&3S adj|wet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	points to table
+*CHI:	0 .
+%act:	pushes on piece
+*CHI:	wet .
+%mor:	adj|wet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DJF:RT:WD
+%act:	wipes arm on shirt
+*INV:	it's wet .
+%mor:	pro:per|it~cop|be&3S adj|wet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$DJF:ST
+*CHI:	0 .
+%act:	rubs finger on table
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	reaches for Clinician's shoulder
+%tim:	00:06:45
+*INV:	wipe it off .
+%mor:	v|wipe pro:per|it adv|off .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:SI
+%act:	wipes table with hand
+*CHI:	0 .
+%act:	rubs finger on table
+*INV:	<it's all wet> [>] .
+%mor:	pro:per|it~cop|be&3S adv|all adj|wet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%spa:	$DJF:ST
+%gpx:	taps table with finger
+*CHI:	&=cough [<] .
+*CHI:	0 .
+%act:	drinks juice
+*INV:	here's the horse .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|horse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$DHA:ST
+%act:	picks up piece
+%tim:	00:06:54
+*CHI:	0 .
+%act:	looks away
+*INV:	horse says +...
+%mor:	n|horse v|say-3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$DHA:EA
+%act:	puts horse on chi's arm
+*INV:	neigh@o .
+%mor:	on|neigh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:PR
+*CHI:	0 .
+%act:	moves around in chair
+*INV:	neigh@o .
+%mor:	on|neigh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$DHA:PR
+%act:	puts horse on table
+*INV:	can you put the horse in ?
+%mor:	mod|can pro:per|you v|put&ZERO det:art|the n|horse adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%spa:	$NIA:RP
+%act:	gives piece to chi
+*CHI:	0 .
+%act:	turns to look at piece
+*CHI:	0 .
+%act:	pushes piece on puzzle
+*CHI:	0 .
+%act:	rubs finger on table
+*INV:	you needta push it in .
+%mor:	pro:per|you v|need~inf|to v|push pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to piece
+*CHI:	0 .
+%act:	gets juice and drinks it
+*INV:	0 .
+%act:	moves piece
+*INV:	0 .
+%act:	pushes puzzle toward chi
+*INV:	there's one more .
+%mor:	pro:exist|there~cop|be&3S pro:indef|one pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%spa:	$DHA:ST
+%gpx:	points to puzzle
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	you needta put the horse in .
+%mor:	pro:per|you v|need~inf|to v|put&ZERO det:art|the n|horse adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|2|PUNCT
+%spa:	$NIA:RP
+%gpx:	points to puzzle
+%tim:	00:07:14
+*CHI:	0 [=! coughs] .
+%act:	puts juice down
+*CHI:	0 .
+%act:	looks down
+*INV:	you needta turn around in your chair .
+%mor:	pro:per|you v|need~inf|to v|turn adv|around prep|in det:poss|your
+	n|chair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%spa:	$NIA:RP
+%act:	puts hand on torso to turn chi
+*CHI:	0 .
+%act:	hits piece down
+*CHI:	0 .
+%act:	moves piece
+*INV:	almost .
+%mor:	adv|almost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:MK
+%act:	reaches for piece
+*INV:	I'll help you .
+%mor:	pro:sub|I~mod|will v|help pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:SI
+%act:	moves piece
+*CHI:	0 .
+%act:	looks down at puzzle
+*INV:	&=gasp . [+ trn]
+%spa:	$MRK:MK
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	looks away
+*INV:	push it in .
+%mor:	v|push pro:per|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%spa:	$NIA:RP
+*CHI:	0 .
+%gpx:	reaches up
+*CHI:	xxx . [+ trn]
+%spa:	$YYY:YY:VO
+%gpx:	reaches up with both hands
+*INV:	0 .
+%act:	pushes piece in
+*INV:	I put it in Chi .
+%mor:	pro:sub|I v|put&ZERO pro:per|it prep|in n:prop|Chi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%spa:	$DRE:ST
+%act:	pushes puzzle
+*CHI:	0 .
+%act:	hangs on doorknob
+*CHI:	0 .
+%act:	looks at puzzle
+*INV:	look we're all done .
+%mor:	co|look pro:sub|we~aux|be&PRES post|all part|do&PASTP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$NIA:DC
+%gpx:	points to puzzle
+%tim:	00:07:34
+*CHI:	0 .
+%act:	puts hand on puzzle
+*CHI:	xxx .
+%act:	stands up
+*INV:	we're all done with the puzzle .
+%mor:	pro:sub|we~aux|be&PRES post|all part|do&PASTP prep|with det:art|the
+	n|puzzle .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|PQ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%spa:	$NIA:DC
+%act:	raises hands up
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	moves behind chair
+*INV:	we're all done .
+%mor:	pro:sub|we~aux|be&PRES post|all part|do&PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:DC
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	walks toward Clinician
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	touches Clinician's shoulder
+*INV:	should we put the puzzle up first ?
+%mor:	mod|should pro:sub|we v|put&ZERO det:art|the n|puzzle adv|up
+	adv|first ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|3|PUNCT
+%spa:	$NIA:RQ
+%act:	grabs puzzle
+*CHI:	0 .
+%act:	looks at puzzle
+*CHI:	xxx .
+%act:	looks at puzzle
+*INV:	0 .
+%act:	stands up
+*INV:	I'm gonna put the puzzle up here on the shelf .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|put&ZERO det:art|the
+	n|puzzle prep|up n|here prep|on det:art|the n|shelf .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+%spa:	$NIA:SI
+*CHI:	xxx .
+%act:	grabs chair and leans over it
+*CHI:	0 .
+%act:	grabs doorknob
+*CHI:	0 .
+%act:	looks at Clinician
+*INV:	push your chair in .
+%mor:	v|push det:poss|your n|chair adv|in .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+%spa:	$NIA:SI
+%act:	pushes chair in
+*CHI:	yyy yyy .
+%spa:	$NIA:YY:VO
+%act:	pushes Clinician's arm
+*INV:	0 .
+%act:	reaches for chi's juice
+*INV:	here's your juice .
+%mor:	pro:exist|here~cop|be&3S det:poss|your n|juice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%spa:	$NIA:TO
+%act:	gives juice to chi
+*CHI:	0 .
+%act:	takes juice
+*INV:	you can carry it .
+%mor:	pro:per|you mod|can v|carry pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$NIA:RP
+%tim:	00:07:56
+*CHI:	yyy .
+%spa:	$YYY:YY:VO
+%act:	looks at Clinician
+*INV:	what should we do ?
+%mor:	pro:int|what mod|should pro:sub|we v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+%gpx:	points to doorknob
+*CHI:	yyy .
+%spa:	$NIA:YY:VO
+%act:	looks at doorknob
+*CHI:	0 .
+%act:	turns around
+*INV:	what should we do ?
+%mor:	pro:int|what mod|should pro:sub|we v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$NIA:QN
+%act:	puts finger on doorknob
+*CHI:	yyy .
+%spa:	$NIA:YY:VO
+%act:	grabs doorknob
+*CHI:	0 .
+%act:	takes hand off doorknob
+*INV:	should we (.) open the door ?
+%mor:	mod|should pro:sub|we v|open det:art|the n|door ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%spa:	$NIA:EI
+%act:	taps finger on doorknob
+*CHI:	open door .
+%mor:	adj|open n|door .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:RT:WD
+%act:	looks at door
+*INV:	open the door .
+%mor:	v|open det:art|the n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:CT
+%act:	turns doorknob
+*INV:	0 .
+%act:	pulls door
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+*INV:	&-uh it's heavy .
+%mor:	pro:per|it~cop|be&3S adj|heavy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$NIA:ST
+%act:	takes hand off doorknob
+*CHI:	0 .
+%act:	pulls on doorknob
+*CHI:	0 [=! grunt] .
+%act:	pulls on doorknob
+*INV:	&-uh .
+%spa:	$MRK:MK
+*CHI:	open .
+%mor:	adj|open .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:RP:WNT
+%act:	pulls Clinician's sleeve
+*CHI:	0 . [+ trn]
+%spa:	$NIA:RP:NT
+%act:	puts Clinician's hand on doorknob
+*INV:	what should I do ?
+%mor:	pro:int|what mod|should pro:sub|I v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$DCA:QN
+%act:	raises hands up
+%tim:	00:08:16
+*INV:	0 .
+%act:	takes hand off doorknob
+*CHI:	0 .
+%act:	tries to pull doorknob
+*INV:	what should we do ?
+%mor:	pro:int|what mod|should pro:sub|we v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$DCA:QN
+%act:	taps doorknob
+*CHI:	0 .
+%act:	looks at Clinician
+*CHI:	xxx .
+%act:	looks at door
+*CHI:	0 .
+%act:	pulls doorknob
+*CHI:	0 .
+%act:	lets go of doorknob
+*CHI:	0 .
+%act:	looks at camera
+*CHI:	0 .
+%act:	puts juice bottle in mouth
+*INV:	should we pull it open ?
+%mor:	mod|should pro:sub|we v|pull pro:per|it v|open ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+%spa:	$DCA:SA
+%act:	taps on doorknob
+*CHI:	open door .
+%mor:	adj|open n|door .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$NIA:RP:WD
+*INV:	open the door .
+%mor:	v|open det:art|the n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$NIA:CT
+%act:	opens the door
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$NIA:AD
+*CHI:	0 .
+%act:	looks out of door
+*CHI:	0 .
+%act:	pulls door open
+*CHI:	yyy . [+ trn]
+%spa:	$YYY:YY:VO
+%act:	walks out of room
+%tim:	00:08:38
+@End
