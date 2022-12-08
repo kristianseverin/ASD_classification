@@ -1,0 +1,3 @@
+data_eigstig.csv:    4869 rows of data
+data_nadig.csv:      2251 rows of data
+data_rollins.csv:    881 rows of data       Obs: it is the Rollins data that has the weird "CLITIC" tokens. What do they mean?
