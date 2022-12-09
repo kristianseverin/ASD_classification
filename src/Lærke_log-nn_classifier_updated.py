@@ -106,7 +106,7 @@ def data_loader():
     return X_train, y_train, X_val, y_val, X_test, y_test
 
 
-class NeuralNetwork(nn.Module):
+class NeuralNetwork(nn.Module): # from classroom 4a
     """ class initializing a fully-connected neural network
     with one input layer, one hidden layer with 30 nodes
     and one output layers with one node
@@ -121,8 +121,8 @@ class NeuralNetwork(nn.Module):
         x = self.linear1(x)
         x = torch.sigmoid(x)
         x = self.linear2(x)
-        x = torch.sigmoid(x) # xxx think about using reloo and not sigmoid, tends to perform better
-        #x = torch.nn.ReLU(x)
+        x = torch.sigmoid(x) # xxx think about using relu and not sigmoid, tends to perform better
+        #x = torch.nn.ReLU(x) --> https://medium.com/grabngoinfo/neural-network-model-balanced-weight-for-imbalanced-classification-in-keras-68d7b6c1462c 
         x = self.linear3(x)
         y_pred = torch.sigmoid(x)
         #y_pred = torch.nn.ReLU(x)
@@ -132,9 +132,10 @@ class NeuralNetwork(nn.Module):
 class LogisticRegression(nn.Module):
     """ class initializing a simple logistic regression classifier
     """
-    def __init__(self, n_input_features):
+    def __init__(self, n_input_features, class_weight):
          super().__init__()
-         self.linear = torch.nn.Linear(n_input_features, 1)  
+         self.linear = torch.nn.Linear(n_input_features,class_weight, 2)
+         #self.class_weight = torch.nn.Linear(class_weight)  
 
     def forward(self, x):
         x = self.linear(x)
@@ -165,7 +166,7 @@ def train(epochs, classifier = 'nn', plot = True):
         model = NeuralNetwork(n_input_features=n_features)
     
     elif classifier == 'lr':
-        model = LogisticRegression(n_input_features=n_features)
+        model = LogisticRegression(n_input_features=n_features, class_weight=[{1:0.6},{0:0.4}]) #xxx class_weight=[{1:0.6},{0:0.4}], or {0: 0.4,1: 0.6}
 
     else:
         print('Not valid classifier - please try again')
@@ -254,7 +255,7 @@ def test(n_features, classifier):
     if classifier == 'nn':
         model = NeuralNetwork(n_input_features=n_features)
     else:
-        model = LogisticRegression(n_input_features=n_features)
+        model = LogisticRegression(n_input_features=n_features, class_weight=[{1:0.6},{0:0.4}])
     path = os.path.join("/work", "exam", "ASD_classification", "out", "NetModel_"+ classifier + ".pth")
     model.load_state_dict(torch.load(path)) 
     predicted = model(X_test).detach().numpy()
