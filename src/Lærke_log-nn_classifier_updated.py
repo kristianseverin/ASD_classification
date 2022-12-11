@@ -10,7 +10,7 @@ os.system('pip install --upgrade pip datasets torch')
 from datasets import load_dataset
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import classification_report, confusion_matrix
-from sklearn.linear_model import LogisticRegression
+#from sklearn.linear_model import LogisticRegression
 import torch
 import torch.nn as nn
 import matplotlib.pyplot as plt
@@ -57,7 +57,7 @@ def bow(X_train, y_train, X_val, y_val, X_test, y_test):
         y_test: test targets
     """
     # load bow from sklearn
-    vectorizer = CountVectorizer()
+    vectorizer = CountVectorizer(max_features=500) #xxx keeping only the top 500 features in the dataset. Might improve performance
 
     # fit vocabulary and transform data
     X_train = vectorizer.fit_transform(X_train)
@@ -115,32 +115,37 @@ class NeuralNetwork(nn.Module): # from classroom 4a
         super().__init__()
         self.linear1 = nn.Linear(n_input_features, 30)
         self.linear2 = nn.Linear(30, 30)
-        self.linear3 = nn.Linear(30, 1)
+        self.linear3 = nn.Linear(30, 1) # make the network smaller given our data
 
     def forward(self, x):
         x = self.linear1(x)
         x = torch.sigmoid(x)
+        #x = torch.relu(x)
         x = self.linear2(x)
         x = torch.sigmoid(x) # xxx think about using relu and not sigmoid, tends to perform better
-        #x = torch.nn.ReLU(x) --> https://medium.com/grabngoinfo/neural-network-model-balanced-weight-for-imbalanced-classification-in-keras-68d7b6c1462c 
+        #x = torch.relu(x) #--> https://medium.com/grabngoinfo/neural-network-model-balanced-weight-for-imbalanced-classification-in-keras-68d7b6c1462c 
         x = self.linear3(x)
+        #y_pred = torch.sigmoid(x)
         y_pred = torch.sigmoid(x)
-        #y_pred = torch.nn.ReLU(x)
         return y_pred
 
 
 class LogisticRegression(nn.Module):
     """ class initializing a simple logistic regression classifier
     """
-    def __init__(self, n_input_features, class_weight):
+    def __init__(self, n_input_features, weight:dict):
          super().__init__()
-         self.linear = torch.nn.Linear(n_input_features,class_weight, 2)
+         self.linear = torch.nn.Linear(n_input_features, 1)
+         self.weight = weight
          #self.class_weight = torch.nn.Linear(class_weight)  
 
     def forward(self, x):
         x = self.linear(x)
         y_pred = torch.sigmoid(x)
+        #y_pred = torch.relu(x)
         return y_pred
+
+
 
 
 def saveModel(model): 
@@ -166,14 +171,17 @@ def train(epochs, classifier = 'nn', plot = True):
         model = NeuralNetwork(n_input_features=n_features)
     
     elif classifier == 'lr':
-        model = LogisticRegression(n_input_features=n_features, class_weight=[{1:0.6},{0:0.4}]) #xxx class_weight=[{1:0.6},{0:0.4}], or {0: 0.4,1: 0.6}
+        model = LogisticRegression(n_input_features=n_features, weight={0: 0.3,1: 0.7}) #xxx class_weight=[{1:0.6},{0:0.4}], or {0: 0.4,1: 0.6}
 
     else:
         print('Not valid classifier - please try again')
         exit()
 
+    weights = [1730/705]
+    class_weights = torch.FloatTensor(weights)
+
     # define loss and optimizer
-    criterion = nn.BCELoss()
+    criterion = nn.BCEWithLogitsLoss(pos_weight = class_weights)
     optimizer = torch.optim.AdamW(model.parameters()) # xxx here is where we want to put things like learning rate, etc.
     #optimizer = torch.optim.AdamW(model.parameters(), lr = 0.005) #default lr is 0.001 . put these in as a variable name and allow the user to input them from the command line
 
@@ -255,7 +263,7 @@ def test(n_features, classifier):
     if classifier == 'nn':
         model = NeuralNetwork(n_input_features=n_features)
     else:
-        model = LogisticRegression(n_input_features=n_features, class_weight=[{1:0.6},{0:0.4}])
+        model = LogisticRegression(n_input_features=n_features, weight = {0: 0.3,1: 0.7})
     path = os.path.join("/work", "exam", "ASD_classification", "out", "NetModel_"+ classifier + ".pth")
     model.load_state_dict(torch.load(path)) 
     predicted = model(X_test).detach().numpy()
@@ -263,7 +271,7 @@ def test(n_features, classifier):
     # printing and saving classification report
     out = classification_report(y_test, 
                         np.where(predicted > 0.5, 1, 0),
-                        target_names = ["ASD", "TD"])
+                        target_names = ["TD", "ASD"])
     
     print(out) 
     with open(os.path.join("/work", "exam", "ASD_classification", "out", "classification_report_" + classifier + ".txt"), 'w') as f:
@@ -282,6 +290,14 @@ with one hidden layers containing 30 nodes: ")
     _, n_features = X_train.shape
 
     # training the model
-    train(40, classifier = classifier)
+    train(140, classifier = classifier)
 
     test(n_features, classifier = classifier)
+
+    #logisticRegr = LogisticRegression(class_weight = {0: 0.4,1: 0.6})
+
+    #result = logisticRegr.fit(X_train, np.array(y_train))
+
+    #print(result)
+
+
