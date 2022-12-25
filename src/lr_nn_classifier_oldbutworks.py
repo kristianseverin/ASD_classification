@@ -1,6 +1,4 @@
 ###### LOADING PACKAGES ######
-import argparse
-
 # system tools
 import os
 
@@ -26,69 +24,7 @@ from sklearn.feature_extraction.text import CountVectorizer #xxx
 # plotting tools
 import matplotlib.pyplot as plt
 
-
-###### ARGUMENT PARSER ######
-def arg_inputs():
-    # initilize parser
-    my_parser = argparse.ArgumentParser(description = "Parsing arguments for number of epochs and learning rate")
-
-    # Arguments that are needed for all models:
-    my_parser.add_argument("-e", 
-                    "--epochs",
-                    type = int,
-                    required = True,
-                    help = "Set number of epochs") 
-    
-    my_parser.add_argument("-lr", 
-                    "--learning_rate",
-                    type = float,
-                    required = True,
-                    help = "Set learning rate") 
-    
-    my_parser.add_argument("-ng", 
-                    "--ngram",
-                    type = int,
-                    required = True,
-                    help = "Set the upper boundary of the range of n-values for different n-grams to be extracted") #xxx
-
-    my_parser.add_argument("-mnd", 
-                    "--mindf",
-                    type = float,
-                    required = True,
-                    help = "xxx") 
-    
-    my_parser.add_argument("-mxd", 
-                    "--maxdf",
-                    type = float,
-                    required = True,
-                    help = "xxx") 
-
-    my_parser.add_argument("-v", 
-                    "--Vectorizer", # xxx
-                    type = str,
-                    required = True,
-                    help = "xxx") 
-
-    # Arguments that are needed only for the neural network:
-    my_parser.add_argument("-hls", 
-                    "--hidden_layer_size", # number of nodes in the hidden layer
-                    type = int,
-                    required = False,
-                    help = "Set number of nodes in the hidden layer") 
-    
-    my_parser.add_argument("-rs", 
-                    "--relu_negative_slope", # xxx
-                    type = float,
-                    required = False,
-                    help = "Set value for the negative slope of the leaky relu activation function") 
-    
-    # list of arguments given
-    args = my_parser.parse_args()
-
-    return args
-
-
-###### DEFINING THE MODEL CLASSES ######
+###### DEFINING LOGISTIC REGRESSION MODEL CLASS ######
 # Logistic regression model
 class LogReg(nn.Module):
     """ class initializing a simple logistic regression classifier
@@ -104,32 +40,34 @@ class LogReg(nn.Module):
 
 # Neural network
 class NeuralNetwork(nn.Module):
-    def __init__(self, hidden_layer_size:int, relu_negative_slope:float, n_input_features): #xxx
+    def __init__(self, n_input_features):
         super().__init__()
-        self.linear1 = nn.Linear(n_input_features, hidden_layer_size)
-        self.linear2 = nn.Linear(hidden_layer_size, 1)
+        self.linear1 = nn.Linear(n_input_features, 32) #xxx
+        self.linear2 = nn.Linear(32, 1)
+        #self.linear3 = nn.Linear(10, 1)
 
-    def forward(self, x, relu_negative_slope:float):
-        leaky_relu = nn.LeakyReLU(relu_negative_slope)
+    def forward(self, x):
+        leaky_relu = nn.LeakyReLU(0.1) #xxx Ross had 0.2
         # Linear -> ReLU
         x = self.linear1(x)
         x = leaky_relu(x)
         # Linear -> ReLU
         x = self.linear2(x)
+        #x = leaky_relu(x)
         # Linear -> Sigmoid
+        #x = self.linear3(x)
         y_pred = torch.sigmoid(x)
         return y_pred
 
-# # Neural network with 2 hidden layers:
 # class NeuralNetwork(nn.Module):
 #     def __init__(self, n_input_features):
 #         super().__init__()
-#         self.linear1 = nn.Linear(n_input_features, hidden_layer_size)
-#         self.linear2 = nn.Linear(hidden_layer_size, hidden_layer_size_2)
-#         self.linear3 = nn.Linear(hidden_layer_size_2, 1)
+#         self.linear1 = nn.Linear(n_input_features, 20) #xxx
+#         self.linear2 = nn.Linear(20, 20)
+#         self.linear3 = nn.Linear(20, 1)
 
 #     def forward(self, x):
-#         leaky_relu = nn.LeakyReLU(relu_negative_slope)
+#         leaky_relu = nn.LeakyReLU(0.1) #xxx Ross had 0.2
 #         # Linear -> ReLU
 #         x = self.linear1(x)
 #         x = leaky_relu(x)
@@ -140,6 +78,7 @@ class NeuralNetwork(nn.Module):
 #         x = self.linear3(x)
 #         y_pred = torch.sigmoid(x)
 #         return y_pred
+
 
 ###### LOADING THE DATA ######
 def SplitData(data_path):
@@ -158,35 +97,36 @@ def SplitData(data_path):
     train = Dataset.from_dict(train)
     val = Dataset.from_dict(val)
     test = Dataset.from_dict(test)
+
+    # from datasets import load_dataset
+
+    # dataset = load_dataset("rotten_tomatoes")
+
+    # obtain train, val and test splits
+    # train = dataset["train"]
+    # val = dataset["validation"]
+    # test = dataset["test"]
     
     return train, val, test
 
-###### VECTORIZING THE DATA ######
-def Vectorize(data_path, Vectorizer:str, ngram:int, maxdf:float, mindf:float):
+###### LOADING THE DATA ######
+def Vectorize(data_path): # xxx rename to TF_IDF() or BOW() one you have decided whether to use one or the other vectorizer.
     """ This function creates a TF-IDF model of the training, 
     validation, and test sets using sklearn's TfidfVectorizer.
     """
+
     # Load and split the data
     train, val, test = SplitData(data_path)
 
     # Define vectorizer
-    if Vectorizer == 'bow':
-        vectorizer = CountVectorizer(ngram_range=(1,ngram), 
-                                lowercase=True,
-                                max_df=maxdf, 
-                                min_df=mindf,
-                                max_features=500) 
+    vectorizer = TfidfVectorizer(ngram_range=(1,1), # xxx default is 1,1 which means that all we want from the vocab is for it to consist of 1 word tokens and 2 word tokens. e.g. good but also not good
+    # try to comment out the ngram and just use the default. Experiment with this.
+                            lowercase=True, 
+                            #stop_words="english", 
+                            max_df=0.95, 
+                            min_df=0.05,
+                            max_features=500) #reduce noise in the data
     
-    elif Vectorizer == 'tfidf':
-        vectorizer = TfidfVectorizer(ngram_range=(1,ngram), 
-                                lowercase=True,
-                                max_df=maxdf, 
-                                min_df=mindf,
-                                max_features=500) 
-
-    else:
-        print('Not a valid vectorizer - please try again')
-        exit()
     
     # Vectorizing the datasets
     x_train = vectorizer.fit_transform(train["text"])
@@ -214,13 +154,13 @@ def Vectorize(data_path, Vectorizer:str, ngram:int, maxdf:float, mindf:float):
 
 
 ###### SET MODEL PARAMETERS ######
-def InitializeModel(hidden_layer_size:int, relu_negative_slope:float, x_train, y_train, classifier, learning_rate):
+def InitializeModel(x_train, classifier, learning_rate):
 
     n_samples, n_features = x_train.shape
 
     # initializing the chosen classifier
     if classifier == 'nn':
-        model = NeuralNetwork(hidden_layer_size, relu_negative_slope, n_input_features=n_features)
+        model = NeuralNetwork(n_input_features=n_features)
     
     elif classifier == 'lr':
         model = LogReg(n_input_features=n_features)
@@ -238,12 +178,12 @@ def InitializeModel(hidden_layer_size:int, relu_negative_slope:float, x_train, y
 
 
 ###### TRAINING THE MODEL ######
-def Train(x_train, y_train, x_val, y_val, classifier, hidden_layer_size:int, relu_negative_slope:float, epochs:int, learning_rate:float): # xxx plot = True
+def Train(data_path, epochs, classifier, learning_rate): # xxx plot = True
     
     print("[INFO:] Training classifier...")
 
     # Initialize the model
-    n_features, criterion, optimizer, model = InitializeModel(hidden_layer_size, relu_negative_slope, x_train, y_train, classifier, learning_rate)
+    n_features, criterion, optimizer, model = InitializeModel(x_train, classifier, learning_rate)
 
     # for plotting
     train_loss_history = []
@@ -303,7 +243,7 @@ def Train(x_train, y_train, x_val, y_val, classifier, hidden_layer_size:int, rel
 
 
 ###### EVALUATING THE MODEL ######
-def Test(n_features, model, x_test, y_test, classifier, epochs:int, learning_rate:float):
+def Test(n_features, model, x_test, y_test, classifier):
     """ Function to evaluate model on test set
     Args:
         n_features (int): number of features
@@ -325,27 +265,24 @@ def Test(n_features, model, x_test, y_test, classifier, epochs:int, learning_rat
 
 
 ###### MAIN ######
-def main():
+if __name__ == "__main__": 
 
     # Receiving user input
     classifier = input("It is time select your classifier! \
     Type lr for logistic regression or nn for a simple neural network \
-    with one hidden layer: ")
+    with one hidden layers containing 30 nodes: ")
     print(f'\n Your chosen classifier {classifier} will be fitted shortly')
-
-    # get the command line arguments
-    arguments = arg_inputs()
+    # xxx make sure to revisit this text when you have decided on the size of the network
 
     # # User defined variables
     data_path = "/work/exam/ASD_classification/data/dataframes/data_eigstig_text_label.csv"
+    epochs = 7000
+    learning_rate = 1e-4 # 1e-4 = 0.0001, 1e-3 = 0.001
 
     # Splitting into separate datasets
-    x_train, y_train, x_val, y_val, x_test, y_test = Vectorize(data_path, arguments.Vectorizer, arguments.ngram, arguments.maxdf, arguments.mindf)
+    x_train, y_train, x_val, y_val, x_test, y_test = Vectorize(data_path)
 
     # training the model
-    model, n_features = Train(x_train, y_train, x_val, y_val, classifier, arguments.hidden_layer_size, arguments.relu_negative_slope, arguments.epochs, arguments.learning_rate)
+    model, n_features = Train(data_path, epochs, classifier, learning_rate)
 
-    Test(n_features, model, x_test, y_test, classifier, arguments.epochs, arguments.epochs)
-
-if __name__ == "__main__":
-    main()
+    Test(n_features, model, x_test, y_test, classifier)
