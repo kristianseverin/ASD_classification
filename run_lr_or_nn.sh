@@ -1,4 +1,6 @@
 # Install packages
+# xxx NB: THIS DOES NOT HAVE THE RELU NEGATIVE SLOPE AS AN ARG!!!
+
 python3 -m pip install --upgrade pip
 python3 -m pip install datasets
 python3 -m pip install torch
@@ -6,7 +8,7 @@ python3 -m pip install sklearn
 python3 -m pip install numpy
 
 # Run the code
-python3 src/lr_nn_classifier.py --epochs $1 --learning_rate $2 --ngram $3 --mindf $4 --maxdf $5 --Vectorizer $6 --hidden_layer_size $7 --relu_negative_slope $8 # arguments from argparse
+python3 src/lr_nn_classifier.py --epochs $1 --learning_rate $2 --ngram $3 --mindf $4 --maxdf $5 --Vectorizer $6 --hidden_layer_size $7 #--relu_negative_slope $8 # arguments from argparse
 # The vectorizer can be either bow (CountVectorizer) or tfidf (TfidfVectorizer)
 
 
@@ -15,4 +17,4 @@ python3 src/lr_nn_classifier.py --epochs $1 --learning_rate $2 --ngram $3 --mind
         # bash run_lr_or_nn.sh 300 0.001 2 0.05 0.95 bow
 
     ## To run a neural network, you must enter values for number of nodes in the hidden layer and for the negative slope coefficient of the leaky ReLU activation function.
-        # bash run_lr_or_nn.sh 300 0.001 2 0.05 0.95 bow 32 0.2
+        # bash run_lr_or_nn.sh 300 0.001 2 0.05 0.95 bow 32
