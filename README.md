@@ -9,6 +9,24 @@ The scripts in the source-folder contain:
 A .ipynb file, 'data_cleaning', used to clean the data used for analysis
 
 A .py script that can run logistic regressions and simple neural networks. The model can be run from bash with the following commands: 
+        If you want to run a logistic regression:
+        bash run_lr_or_nn.sh epochs learning_rate ngram mindf maxdf Vectorizer hidden_layer_size relu_negative_slope
+        where:
+            - epochs (int) = number of epochs that the models is trained over
+            - learning_rate (float) = the learning rate of the model
+            - ngram (int) = the upper boundary for the ngram range
+            - mindf (float) = the lower cutoff for the document frequency
+            - maxdf (float) = the upper cutoff for the document frequency
+            - Vectorizer (str) = must be either CountVectorizer or TfidfVectorizer. Write bow for CountVectorizer or tfidf for TfidfVectorizer.
+        For example run: bash run_lr_or_nn.sh 300 0.001 2 0.05 0.95 bow
+
+        or if you want to run a neural network:
+        bash run_lr_or_nn.sh epochs learning_rate ngram mindf maxdf Vectorizer hidden_layer_size relu_negative_slope
+        where:
+            - hidden_layer_size (int) = the number of nodes in the hidden layer
+            - relu_negative_slope (float) = the negative slope coefficient for the leaky ReLU activation function
+        For example run: bash run_lr_or_nn.sh 300 0.001 2 0.05 0.95 bow 32 0.2
+
 
 Running the sript will write metrics from the model to the 'out' folder.
 
