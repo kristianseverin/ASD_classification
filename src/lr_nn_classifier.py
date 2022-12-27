@@ -21,7 +21,7 @@ from sklearn.model_selection import train_test_split
 from datasets import Dataset
 from sklearn.metrics import classification_report
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import CountVectorizer #xxx
+from sklearn.feature_extraction.text import CountVectorizer
 
 # plotting tools
 import matplotlib.pyplot as plt
@@ -49,7 +49,7 @@ def arg_inputs():
                     "--ngram",
                     type = int,
                     required = True,
-                    help = "Set the upper boundary of the range of n-values for different n-grams to be extracted") #xxx
+                    help = "Set the upper boundary of the range of n-values for different n-grams to be extracted")
 
     my_parser.add_argument("-mnd", 
                     "--mindf",
@@ -64,7 +64,7 @@ def arg_inputs():
                     help = "Set the upper cutoff for the document frequency") 
 
     my_parser.add_argument("-v", 
-                    "--Vectorizer", # xxx
+                    "--Vectorizer", 
                     type = str,
                     required = True,
                     help = "Set the CountVectorizer or the TfidfVectorizer") 
@@ -98,7 +98,7 @@ class LogReg(nn.Module):
 
 # Neural network
 class NeuralNetwork(nn.Module):
-    def __init__(self, n_input_features, hidden_layer_size:int): #xxx
+    def __init__(self, n_input_features, hidden_layer_size:int):
         super().__init__()
         self.linear1 = nn.Linear(n_input_features, hidden_layer_size)
         self.linear2 = nn.Linear(hidden_layer_size, 1)
@@ -137,9 +137,8 @@ class NeuralNetwork(nn.Module):
 
 ###### LOADING THE DATA ######
 def SplitData(data_path):
-    """ A function that loads the "raw" dataframe and splits it into three subsets:
+    """ A function that loads the dataframe and splits it into three subsets:
     training, validation, and test data.
-    NB: The data is not really raw - the TalkBank data has been preprocessed - see xxx.
     """
     # # Import the dataframe
     data = pd.read_csv(data_path)
@@ -232,7 +231,7 @@ def InitializeModel(hidden_layer_size:int, x_train, y_train, classifier, learnin
 
 
 ###### TRAINING THE MODEL ######
-def Train(x_train, y_train, x_val, y_val, classifier, hidden_layer_size:int, epochs:int, learning_rate:float): # xxx plot = True
+def Train(x_train, y_train, x_val, y_val, classifier, hidden_layer_size:int, epochs:int, learning_rate:float):
     
     print("[INFO:] Training classifier...")
 
