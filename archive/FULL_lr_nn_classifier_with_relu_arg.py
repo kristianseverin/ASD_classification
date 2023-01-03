@@ -106,11 +106,12 @@ class LogReg(nn.Module):
 class NeuralNetwork(nn.Module):
     def __init__(self, n_input_features, hidden_layer_size:int, relu_negative_slope:float): #xxx
         super().__init__()
+        self.relue_negative_slope = relu_negative_slope
         self.linear1 = nn.Linear(n_input_features, hidden_layer_size)
         self.linear2 = nn.Linear(hidden_layer_size, 1)
 
-    def forward(self, x, relu_negative_slope=relu_negative_slope):
-        leaky_relu = nn.LeakyReLU(relu_negative_slope)
+    def forward(self, x, relu_negative_slope):
+        leaky_relu = nn.LeakyReLU(self.relu_negative_slope)
         # Linear -> ReLU
         x = self.linear1(x)
         x = leaky_relu(x)

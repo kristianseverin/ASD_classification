@@ -75,6 +75,12 @@ def arg_inputs():
                     type = int,
                     required = False, nargs="?", default = None,
                     help = "Set number of nodes in the hidden layer") 
+
+    my_parser.add_argument("-rs", 
+                    "--relu_negative_slope",
+                    type = float,
+                    required = False, nargs="?", default = None,
+                    help = "Set value for the negative slope of the leaky relu activation function") 
     
     # list of arguments given
     args = my_parser.parse_args()
@@ -98,13 +104,14 @@ class LogReg(nn.Module):
 
 # Neural network
 class NeuralNetwork(nn.Module):
-    def __init__(self, n_input_features, hidden_layer_size:int):
+    def __init__(self, n_input_features, hidden_layer_size:int, relu_negative_slope:float):
         super().__init__()
+        self.relu_negative_slope = relu_negative_slope
         self.linear1 = nn.Linear(n_input_features, hidden_layer_size)
         self.linear2 = nn.Linear(hidden_layer_size, 1)
 
     def forward(self, x):
-        leaky_relu = nn.LeakyReLU(0.2)
+        leaky_relu = nn.LeakyReLU(self.relu_negative_slope)
         # Linear -> ReLU
         x = self.linear1(x)
         x = leaky_relu(x)
@@ -207,13 +214,13 @@ def Vectorize(data_path, Vectorizer:str, ngram:int, maxdf:float, mindf:float):
 
 
 ###### SET MODEL PARAMETERS ######
-def InitializeModel(hidden_layer_size:int, x_train, y_train, classifier, learning_rate):
+def InitializeModel(hidden_layer_size:int, relu_negative_slope:float, x_train, y_train, classifier, learning_rate):
 
     n_samples, n_features = x_train.shape
 
     # initializing the chosen classifier
     if classifier == 'nn':
-        model = NeuralNetwork(hidden_layer_size=hidden_layer_size, n_input_features=n_features)
+        model = NeuralNetwork(hidden_layer_size=hidden_layer_size, relu_negative_slope=relu_negative_slope, n_input_features=n_features)
     
     elif classifier == 'lr':
         model = LogReg(n_input_features=n_features)
@@ -231,12 +238,12 @@ def InitializeModel(hidden_layer_size:int, x_train, y_train, classifier, learnin
 
 
 ###### TRAINING THE MODEL ######
-def Train(x_train, y_train, x_val, y_val, classifier, hidden_layer_size:int, epochs:int, learning_rate:float):
+def Train(x_train, y_train, x_val, y_val, classifier, hidden_layer_size:int, relu_negative_slope:float, epochs:int, learning_rate:float):
     
     print("[INFO:] Training classifier...")
 
     # Initialize the model
-    n_features, criterion, optimizer, model = InitializeModel(hidden_layer_size, x_train, y_train, classifier, learning_rate)
+    n_features, criterion, optimizer, model = InitializeModel(hidden_layer_size, relu_negative_slope, x_train, y_train, classifier, learning_rate)
 
     # for plotting
     train_loss_history = []
@@ -336,7 +343,7 @@ def main():
     x_train, y_train, x_val, y_val, x_test, y_test = Vectorize(data_path, arguments.Vectorizer, arguments.ngram, arguments.maxdf, arguments.mindf)
 
     # training the model
-    model, n_features = Train(x_train, y_train, x_val, y_val, classifier, arguments.hidden_layer_size, arguments.epochs, arguments.learning_rate)
+    model, n_features = Train(x_train, y_train, x_val, y_val, classifier, arguments.hidden_layer_size, arguments.relu_negative_slope, arguments.epochs, arguments.learning_rate)
 
     Test(n_features, model, x_test, y_test, classifier, arguments.epochs, arguments.epochs)
 
